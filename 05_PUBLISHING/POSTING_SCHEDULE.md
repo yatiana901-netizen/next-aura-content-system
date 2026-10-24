@@ -1,24 +1,40 @@
-# Posting Schedule
+# Posting Schedule — Starting Plan
 
-## Starting cadence
-Target: **4 strong posts per week** rather than forcing daily output.
+## Cadence
+Start with **4 strong posts per week**.
 
-Suggested starting pattern:
+Quality is more important than forcing daily output.
+
+Suggested days:
 - Tuesday
 - Wednesday
 - Thursday
 - Saturday
 
-A fifth post is optional when there is a genuinely strong fresh story.
+Optional fifth post:
+- only when there is a genuinely strong fresh story
 
-## Review cycle
-After ~16 posts, compare:
+## Starting time window
+Use roughly **17:00–18:00 Germany local time** as a starting test window.
+
+After enough posts, replace generic timing assumptions with the account’s own analytics.
+
+## First month
+Target:
+**~16 strong videos**
+
+Keep the identity highly consistent during this phase:
+mostly Automotive / Auto-Tech with controlled adjacent mobility topics.
+
+## Review metrics
+Track:
 - first-3-second retention
 - average watch time
-- completion
+- completion rate
 - shares
 - saves
 - follows per view
 - German audience share
 
-Double down on the angles and subjects that perform, not merely the brands with the most views.
+## Decision rule
+Double down on the **angles and subject types** that perform, not just the brands with the most views.
