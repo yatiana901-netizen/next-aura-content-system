@@ -1,36 +1,63 @@
-# Script Rules
+# Script Rules — Canonical
 
 ## Language
 - Voice-over: natural German
-- Internal explanation to creator: Moroccan Darija / Arabic script when useful
+- Internal creator explanation: Moroccan Darija / Arabic script when useful
 - Short spoken sentences
 - Easy for ElevenLabs to deliver naturally
+- Avoid stiff written-German phrasing
 
 ## Story
-Structure is flexible, but usually:
-Hook → curiosity gap → technical problem → explanation → proof → payoff.
+No rigid template, but a strong default is:
+**Hook → curiosity gap → technical problem → explanation → proof → payoff**
 
 ## Visual-first writing
-Never write details just because they are interesting.
-Write details that:
-1. matter,
-2. can be shown,
-3. move the story forward.
+Do not write a detail just because it is interesting.
 
-If the ideal footage is unrealistic to find, rewrite the VO to a broader but still accurate statement.
+A sentence belongs in the script only if it:
+1. is true,
+2. adds meaning,
+3. can be shown realistically,
+4. moves the story forward.
+
+If the perfect footage is nearly impossible to obtain, rewrite the VO to a broader but still accurate claim.
+
+## Density
+Prefer one clear main idea over many side facts.
+Delete facts that distract from the central mechanism.
 
 ## Duration
-Usually 60–75 seconds if the idea supports it.
-Shorter is better than padded.
-Longer only when every section earns its time.
+Typical target:
+- ~60–75 seconds when the idea supports it
+- shorter is better than padded
+- longer only if every section earns its time
 
 ## Claims
-Clearly distinguish:
+Always distinguish:
 - prototype
 - production feature
 - future application
 - company claim
 - measured test result
-- peak figure vs sustained figure
+- peak vs sustained figure
+- simplified engineering explanation vs exact operating value
 
 Never change the meaning of a metric for virality.
+
+## Presenter lines
+Presenter lines should be short and purposeful.
+The presenter does not need to speak every major section.
+Use him for:
+- hook
+- pattern interrupt
+- clarification
+- reveal
+- payoff
+
+## Final pass
+Remove:
+- repeated ideas
+- generic filler
+- details with no footage
+- long explanations that can be shown visually
+- unnecessary conclusions
