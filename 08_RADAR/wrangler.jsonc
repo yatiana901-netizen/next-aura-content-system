@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "next-aura-radar",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-24",
+  "observability": {
+    "enabled": true
+  },
+  "triggers": {
+    "crons": ["*/30 * * * *"]
+  },
+  "ai": {
+    "binding": "AI"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB"
+    }
+  ],
+  "vars": {
+    "AI_MODEL": "@cf/meta/llama-3.1-8b-instruct",
+    "ALERT_SCORE": "82",
+    "MAX_ARTICLES_PER_SOURCE": "6",
+    "FRESH_HOURS": "30"
+  }
+}
