@@ -10,7 +10,8 @@ Use analytics to identify which **topic + hook + visual pattern** actually works
 - Topic pillar
 - Brand / subject
 - Hook type
-- Duration
+- Duration bucket
+- CTA type
 - Presenter appearances
 - Main visual type
 - Publish date / time
@@ -48,6 +49,26 @@ Also calculate per 1,000 views:
 - saves / 1k
 - follows / 1k
 - comments / 1k
+- profile visits / 1k
+
+## Duration experiment
+Do not declare a universal best duration.
+
+Test at least several videos across:
+- 35–50s
+- 50–60s
+- 60s+
+
+Compare performance within similar topic quality and visual strength.
+
+## CTA experiment
+Track separately:
+- no CTA
+- topic-choice CTA
+- technical opinion CTA
+- next-video promise
+
+Do not promote one CTA style to a master rule based on a single result.
 
 ## Benchmark rule
 Do not use random internet thresholds as truth.
