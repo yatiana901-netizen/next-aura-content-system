@@ -72,17 +72,20 @@ Use him for:
 - payoff
 
 ## Interaction / CTA
-Prefer a CTA that emerges naturally from the topic.
+Current growth experiment:
+End German Auto-Tech scripts with a **short, natural German follow CTA** when it fits the ending without weakening the payoff.
 
-Better:
-- a real comparison question
-- a choice between two next topics
-- a technical opinion question
-- a follow-up promise tied to the story
+Default test line:
+**„Folge für mehr Auto-Tech-News!“**
 
-Avoid generic “Folge für mehr” as the default.
+Rules:
+- keep it short,
+- place it after the payoff,
+- do not interrupt the technical conclusion,
+- do not add a second CTA on top of it unless there is a clear reason,
+- treat follower uplift as an experiment, not a permanent law.
 
-The CTA must not distort the story just to force comments.
+Topic-native CTAs can still replace the generic follow line when they are clearly stronger.
 
 ## Final pass
 Remove:
