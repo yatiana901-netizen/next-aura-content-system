@@ -43,9 +43,13 @@ Separate:
 
 Duration ranges, micro-hook timing and fixed scene timing are experiments until account data supports them.
 
-## D011 — CTA
-Use topic-native interaction when it improves the story.
-Generic “follow for more” is not the default CTA.
+## D011 — CTA experiment
+For the current German Auto-Tech growth phase, test a short German follow CTA at the end of scripts, for example:
+**„Folge für mehr Auto-Tech-News!“**
+
+It should appear only when it does not weaken the payoff.
+Track whether it improves follows per 1,000 views.
+This is an experiment, not a permanent law.
 
 ## D012 — Technical numbers
 Verify exact figures against the primary source and avoid mixing market-specific specifications.
