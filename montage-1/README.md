@@ -61,3 +61,7 @@ Do not treat these as independently confirmed word-level onsets or copy them int
 
 ### Why Montage 1?
 This is the first editing result the user approved after iterating ABT V4→V10 with ChatGPT. Preserve the editing **standard**, not a static template for all future footage.
+
+
+## TikTok publishing companion (added 2026-11-03)
+Every Next Aura video must also include **one vertical cover/thumbnail, one German SEO title, exactly five relevant hashtags, and a dated Morocco/Germany posting recommendation**. Read [PUBLISHING_STANDARD.md](PUBLISHING_STANDARD.md) before each upload. The ABT V10 title/hashtags/date/cover handoff are in [ABT_V10_PUBLISHING_PACK.md](ABT_V10_PUBLISHING_PACK.md). **The binary thumbnail PNG is packaged separately in the ChatGPT conversation and is not yet uploaded to GitHub.**
