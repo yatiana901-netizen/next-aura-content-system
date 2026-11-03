@@ -1,5 +1,5 @@
 # ABT RS5-R V10 — TikTok publishing pack
-**Prepared on 2026-11-03 for Wednesday 2026-11-04.**
+**ABT reference caption and publishing preparation; posting date/time must be decided afresh for each upload.**
 
 ## Caption, copy-paste
 ```
@@ -10,11 +10,10 @@ ABT Audi RS5-R: 720 PS, nur 130 Stück – 62.000 € ohne Auto?! 😳
 
 SEO intent: Audi RS5; ABT Sportsline; RS5-R; 720 PS; €62,000 tuning package. Five topic-specific hashtags (rather than unfocused #fyp).
 
-## Timing
-- **Morocco:** Wednesday, 2026-11-04 at **19:00 GMT (UTC+0)**.
-- **Germany:** Wednesday, 2026-11-04 at **20:00 CET (UTC+1)**.
-- This is a posting **experiment**, not guaranteed optimal. Metricool's 2026 study reports strong evening activity with ~20:00 peak. Check the account's own audience analytics over time. In November 2026 Morocco is GMT, not GMT+1.
-- Cross-check for DST changes before reusing these hours on another date.
+## Publishing time — dynamic, not fixed
+- **No fixed posting hour in GitHub.** Select the day and time **separately for this upload** by analyzing TikTok account audience activity, day of week, recent evidence and video topic.
+- When actually preparing to publish, give the user one concrete recommended time for Germany and the converted local Morocco time; verify both countries' timezone/DST for that date.
+- Record performance after publishing and refine future recommendations. Past times must not be used as automatic defaults.
 
 ## Thumbnail
 The approved 9:16 TikTok thumbnail was created in the source ChatGPT conversation. The user has a PNG image named `a_high_contrast_cinematic_hyper_realistic_vertic.png` / a portable copy `MONTAGE_1_ABT_RS5R_TIKTOK_COVER.png` inside the posting pack provided in that conversation.
