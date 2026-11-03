@@ -103,3 +103,14 @@ GATE 10: experiment insights recorded, no made-up analytics.
 - New video-specific explicit choices override general aesthetic defaults when safe.
 - User-approved ABT V10 is benchmark, NOT rigid timing or effect template. Exact VO/footage always dictates pace.
 - This document is a mandatory SOP, not proof a live CapCut GUI is connected. The companion small CLI creates a checklist and checks evidence; it does not edit footage or prove rights.
+
+
+## Permanent NO-MUSIC / NO-MUSICAL-SFX rule (2026-11-03)
+**Explicit user instruction, unconditional for all Next Aura media (not just ALPINA): NEVER add music or any sound effect containing music, melodic elements, notes/chords, musical stingers, rhythmic music beds, jingles, tonal risers, or background soundtrack.** Do not use an SFX simply because its file is called whoosh/impact: inspect or reproduce its audio; reject musical effects outright.
+- Content MUST be designed as **German VO + independently verified nonmusical SFX + original real-world engine/ambience ONLY if confidently free of embedded music and permissioned**.
+- If an original source video has engine mixed with potentially copyrighted music and clean music separation cannot be verified, **MUTE THE ENTIRE ORIGINAL SOURCE AUDIO for that segment**, then optionally add clearly nonmusical, appropriate sound from cleared material. Filtering/band-pass/EQ does not reliably remove music.
+- If an SFX file was not independently checked and musical content cannot be ruled out, do **not** include it; prefer fresh non-tonal sound design, verified clean mechanical sound, or NO SFX.
+- Clean and rebuild soundtrack from music-free source stems when a prior draft contains uncertain audio. Never claim musical content was removed by reducing gain or spectral filtering alone.
+- Document exact audio provenance (VOICE / source-audio allowed or muted / vetted SFX / generated noise), file hashes or evidence when feasible, and report whether true listening validation occurred.
+- Preserve a cinematic feel through authentic motors when verified, dynamic level ducking, naturally timed cuts, filtered non-tonal whooshes and short dry impacts, **not musical effects**. If no verified engine track exists, a voice-and-nonmusical-SFX-only mix is preferred.
+- Apply this rule **before publication**, including TikTok, YouTube Shorts, covers with sound, ads and exports.
