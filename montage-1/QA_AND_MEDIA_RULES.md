@@ -48,3 +48,10 @@ Every Next Aura export must be reviewed for **how loud, clear, balanced, and ple
 
 ## Archive
 The complete 349 MB `MONTAGE_1_NEXT_AURA_COMPLETE_PROJECT.zip` is provided in the user's ChatGPT session. Files are **not** committed to GitHub. Keep a durable copy in private storage.
+
+
+## Strict prohibition: music and musical SFX (2026-11-03)
+- **Absolute user constraint:** never include music, musical SFX, melodies, notes/chords, jingles, scored risers, or rhythmic music in ANY Next Aura export.
+- Before using a sound effect, independently assess its actual waveform/audio content; an SFX library file name does NOT certify nonmusic. Discard or replace any suspect SFX.
+- Original clip audio with music embedded under engine/exhaust is unusable unless actually isolated and audited. Do **not** rely on EQ/bandpass to 'erase' music. If the audio cannot be verified music-free, **mute source audio entirely**, retaining only voice and proven nonmusical effects.
+- For any sound rebuild: prove from the mixing process that the original audio and legacy SFX were excluded when suspect. Verify final A/V streams and measured LUFS/true peak. State any manual listening limitations honestly.
