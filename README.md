@@ -38,3 +38,14 @@ Videos use a numeric prefix:
 
 ## Update convention
 When a new rule proves useful, update the relevant master file rather than duplicating it in multiple places.
+
+## Continuous-improvement and GitHub capture policy (agreed 2026-11-03)
+During active Next Aura work, record worthwhile reusable improvements in this repository without waiting for a separate request each time:
+- **Tested / user-approved improvements:** update the appropriate existing master standard, prompt, QA checklist, script, publishing workflow, or template directly. Use clear commits and avoid duplicates.
+- **Promising but untested ideas:** document them in the appropriate `06_IDEAS_BACKLOG/` file or a clearly labeled research note, with evidence, assumptions, and what still needs testing. Never present an idea as a proven production rule.
+- **New research or trend topics:** preserve dated source links, the factual verification status, and whether sufficient reusable footage exists. Do not imply that editorial media is copyright-free.
+- **Ask the user first** for major strategy/policy pivots, destructive edits, publishing or external exposure, paid actions, changes to the channel identity, or anything that overrides a previous explicit user decision.
+- **Media:** keep raw videos, copyrighted footage, large archives, credentials, and private personal data out of GitHub. GitHub holds documentation, links, instructions and reusable code/prompt text.
+- **Report what changed:** after each successful commit, briefly provide the file path, what was added, and the commit or link. If GitHub access fails, be transparent; never claim a change was saved.
+
+This is an in-session working practice, not a background agent: updates happen while actively working with the user and when GitHub access is available.
