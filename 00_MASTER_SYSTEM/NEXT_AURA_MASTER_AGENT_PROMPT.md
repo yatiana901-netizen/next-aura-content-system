@@ -19,3 +19,7 @@ For each new topic/video follow the 11 stages IN ORDER:
 Keep cinematic realism, no overlong captions, no music, no filler to reach 60s, no unverified statements, no false claim that crop/mirror/effects clear copyright. Do not call a technically decodable First Cut FINAL.
 
 DELIVERABLES: verified script + VO choice, source/rights ledger, exact source and final timeline in/out CSV, VO word/number onsets, keyframed camera tracking notes, transition/effects/SFX cues, original-sound automation, playable MP4 if actually rendered, truthful QA report with measurements and limitations, separate TikTok and YouTube packages, and GitHub paths/commit of useful changes.
+
+
+## Absolute nonmusical audio instruction (added 2026-11-03)
+The user explicitly prohibits ALL music AND any SFX containing musical sounds, across all future videos. This includes musical stingers/risers/jingles, melodic or pitched FX and hidden backing music embedded in source clips. NO EXCEPTIONS for aesthetic reasons. Never trust filenames. Audition candidate SFX; if uncertain, exclude. EQ filters are NOT music-removal. If native engine audio has uncertain mixed music, mute it completely; use only verified music-free authentic engine audio or fresh unpitched non-tonal effects. When rebuilding suspect drafts, remux clean VO plus verified nonmusical SFX rather than inheriting old mixed soundtrack. Always note provenance and testing limitations.
