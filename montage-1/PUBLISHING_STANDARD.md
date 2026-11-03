@@ -27,6 +27,7 @@ All finished videos must be accompanied by a **four-part Publishing Pack** (the 
 - Recheck Morocco and Germany's timezone/DST offsets for the actual planned date; never assume an offset from a previous upload.
 - Check latest reliable posting studies *and* user account's TikTok audience analytics when accessible. Generic averages are a **starting experiment**, not a guaranteed best time.
 - Only in the **per-video publishing response**, give one researched posting time in both local timezones, and an alternate if justified. GitHub documents the decision process, **not a universal hour or a previously selected hour**. Explain how to compare results for subsequent uploads.
+- **Minute-level times are allowed and encouraged when defensible:** do not mechanically round to `:00` or `:30`. E.g. `18:06`, `18:17`, `18:43` Germany time may be recommended **only as experiment slots or when justified by actual audience analytics**. Do **not** claim that an exact minute is objectively optimal based only on coarse hourly posting studies. If data are only hourly, say the minute is a testing choice and avoid false precision.
 
 ### Required final delivery for every video
 - Verified MP4.
