@@ -51,3 +51,14 @@ Select non-overlapping creative moments, not repeated excerpts of the same shot 
 - VO priority; retain useful, copyright-permitted engine/exhaust/original scene sounds when clean, keyframed ducking under VO, added SFX for selective accents only, no clipping. Test each actual generated voice and export.
 - No repeated literal shots within a Short or across the two Shorts. A source archive may contain duplicates or recap re-edits; `The First Test._.mp4` and `The First Test._ (1).mp4` were byte-for-byte identical in inspection.
 - Timing/source in-out, licensing, visual claims, exact word sync and real-device QA remain to be verified after ElevenLabs audio is returned.
+
+## Work-in-progress checkpoint: first-cut previews (2026-11-03)
+- Received two ElevenLabs Jan v4 takes for each German VO. First takes used for initial edit assembly.
+- VO 1 was ~36.21 seconds originally; removed ~2.77 seconds of unnecessary late dead air; selected clean stem approximately 33.44 seconds, ~-17.8 LUFS and -2.2 dBTP (measured after MP3 encode).
+- VO 2 selected first take ~36.99 seconds; level-adjusted stem ~37.02 seconds, ~-17.4 LUFS and -1.5 dBTP.
+- **Preview 1:** `NextAura_BMW_ALPINA_VIDEO1_FIRST_CUT_PREVIEW.mp4`, 33.43 s, 1080×1920/30, 15 different excerpt selections from `The First Test._.mp4` exclusively.
+- **Preview 2:** `NextAura_VISION_BMW_ALPINA_VIDEO2_FIRST_CUT_PREVIEW.mp4`, 37.00 s, 1080×1920/30, 17 selections from separate Vision study / Pebble Beach / The Quail / PF0010176 sources. No Nardò test footage.
+- Both previews are **local ChatGPT conversation attachments, not committed binary assets in GitHub**. The shot-by-shot reference file is `NextAura_ALPINA_TWO_VIDEOS_SHOTLIST.csv`; `NextAura_ALPINA_FIRST_CUT_QA.txt` reports limitations.
+- Verified video codec, frame rate, dimensions, durations, full decode and audio integrated loudness/true peaks. Did **not** verify final exact word-level alignment by listening, every shot boundary on export, full phone playback, or source rights.
+- Native source audio intentionally muted pending review for baked-in music, third-party rights and safe engine/ambience stems. No engine layer, transitions package or designed SFX added yet. **Do not label drafts complete or publication-ready.**
+- Next: user assesses visual selections / crop; revise hook, individual crops and shot timings; then audio engine ducking, SFX, low-key cards, independent final QA and platform-ready mastering.
