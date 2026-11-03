@@ -20,6 +20,18 @@ Every Next Aura export must be reviewed for **how loud, clear, balanced, and ple
 - **Real-device check:** audition on normal phone speakers and headphones where available. The VO must remain understandable at moderate phone volume; SFX must not sound piercing or disproportionately loud. If physical-device playback is unavailable, disclose it as unverified rather than claiming it passed.
 - **Release report:** note measured LUFS and true peak if instruments were run, any defects fixed, and listening checks actually completed. Export/decoding alone never proves a good audio mix. If no reliable listening or meter analysis is possible, mark audio QA incomplete and provide next actions.
 
+## Original source audio / engine ambience mixing (approved 2026-11-03)
+**Do not automatically mute all source-video audio.** Preserve and art-direct useful authentic sounds such as engine revs, exhaust, tire movement, wind, mechanical clicks and race ambience when they match the actual shot. The goal is cinematic realism and emotional impact, **without masking the German VO or chosen SFX**.
+- Audit the audio of every selected source shot. Identify desirable engine/ambient details versus distracting speech, copyrighted/background music, unrelated audio, distortion, hiss and sudden level spikes. Keep only sounds that strengthen the moment and that may be used lawfully.
+- Edit original-source audio on a **separate track** where possible, independent of the voice-over and added SFX. Use clip-specific gain keyframes, short fades, and volume automation rather than one static volume for the entire timeline.
+- Apply **speech-priority ducking**: lower engine/ambient gain whenever the VO speaks, and smoothly restore appropriate ambience during gaps, close-ups or end beats. As a trial only, duck source ambience by roughly 6–12 dB when speech is present, more for exceptionally loud engines, then adjust by careful listening. These are not universal levels.
+- For key highlights (startup, throttle blip, pass-by), a brief tasteful boost may communicate power, provided dialogue stays intelligible and transients do not compete with designed impacts. Where source audio and added SFX clash, pick the better sound or reduce one; don't stack two loud effects simply because they are available.
+- Use gentle corrective EQ/high-pass, dynamic EQ, light compression or limiting **only when needed** to control rumble, low-frequency competition, piercing highs and peaks. Do not erase an engine's characteristic tone or make the mix sound unnatural.
+- Check whether the source video's audio is a single baked-in mix. If engine, unwanted speech/music and noise cannot be cleanly separated, use extraction/separation only if reliable; otherwise mute that source track for the segment or use properly licensed matching ambience. Never claim perfect separation when impossible.
+- Ensure audio perspective matches the visual: inside-cabin sound vs trackside pass-by vs distant vehicle; no misleading synthetic engine sound presented as the actual car. Match transitions between clips to avoid abrupt ambience jumps and unnatural cutoffs.
+- Final audit: independently check VO clarity, added SFX, source ambience, combined peak/loudness, timing, and phone-speaker intelligibility where available. Report source sounds retained/removed and state what was actually listened to or measured.
+- No background music (including music accidentally embedded in source-video audio).
+
 ## Rights and limitations
 - Permissions for the user-supplied third-party ABT footage and SFX have not been verified; do not claim copyright clearance.
 - Mirroring, cropping, reframing, adding subtitles or SFX do not remove copyright or substitute licensing.
