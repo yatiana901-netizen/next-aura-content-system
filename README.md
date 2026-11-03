@@ -49,3 +49,14 @@ During active Next Aura work, record worthwhile reusable improvements in this re
 - **Report what changed:** after each successful commit, briefly provide the file path, what was added, and the commit or link. If GitHub access fails, be transparent; never claim a change was saved.
 
 This is an in-session working practice, not a background agent: updates happen while actively working with the user and when GitHub access is available.
+
+## Master video production pipeline — START HERE (2026-11-03)
+Every new Next Aura video follows the same required pipeline covering research, dated fact checking, source footage inspection, German VO, frame-accurate shot selection, moving 9:16 camera-follow, purposeful transitions/effects, **three-layer audio** (VO + authentic source engine/ambience + added SFX), visual/audio QA and separate TikTok + YouTube Shorts publishing packs.
+
+- **[VIDEO_PRODUCTION_PIPELINE_V1.md](00_MASTER_SYSTEM/VIDEO_PRODUCTION_PIPELINE_V1.md)** — mandatory complete 11-stage workflow; includes rights and non-repetition rules for two Shorts using footage from the same subject.
+- **[NEXT_AURA_MASTER_AGENT_PROMPT.md](00_MASTER_SYSTEM/NEXT_AURA_MASTER_AGENT_PROMPT.md)** — reusable copy-ready instructions for an editing session or supported computer-use editor.
+- **[NEXT_AURA_VIDEO_CHECKLIST_TEMPLATE.md](00_MASTER_SYSTEM/NEXT_AURA_VIDEO_CHECKLIST_TEMPLATE.md)** — per-video editorial, creative, audio, legal and release QA checklist.
+- **[PIPELINE_RUNNER_README.md](00_MASTER_SYSTEM/PIPELINE_RUNNER_README.md)** — how to create local projects, evidence and delivery packs.
+- **[tools/next_aura_pipeline.py](tools/next_aura_pipeline.py)** — small runnable stdlib Python CLI for project setup, recording evidence and enforcing QA checkpoints; ffprobe optional.
+
+**Important:** The local CLI is a project organizer / evidence gate, not an automatic video editor, automated human listener, copyright verifier or CapCut GUI controller. Final edits still need actual supported editing tools, real audio/video review, user approval and licensing evidence. Do not call first-cut previews final.
