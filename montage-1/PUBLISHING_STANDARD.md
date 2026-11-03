@@ -5,7 +5,7 @@ All finished videos must be accompanied by a **four-part Publishing Pack** (the 
 1. **TikTok thumbnail / Miniature:** deliver a purpose-built vertical 9:16 JPG/PNG file.
 2. **One strongest German SEO title/caption:** copy-ready; exact topic/product name + most searched factual keyword(s) + truthful tension/curiosity, no clickbait.
 3. **EXACTLY FIVE German-market relevant hashtags:** one/two exact model/brand hashtags plus niche and topical discovery tags; avoid generic #fyp/#viral padding.
-4. **Recommended publish day/time:** give **exact calendar date**, **Morocco local hour**, **Germany local hour**, timezone labels and rationale with recent evidence/analytics. No fixed universal posting hour; retune for each upload.
+4. **Video-specific posting recommendation:** for each new video, research and recommend a date and time for the German audience, show the corresponding Morocco time, and explain the evidence. **Never store a fixed posting hour in this repository or reuse an hour blindly.** Account analytics, niche, weekday, competition, and latest data decide.
 
 ### Thumbnail standard (mandatory)
 - Produce a fresh attractive **9:16** (recommended 1080×1920) cover from verified topic footage where possible; do not use AI images claiming to be official photographs.
@@ -24,9 +24,9 @@ All finished videos must be accompanied by a **four-part Publishing Pack** (the 
 
 ### Publish-time workflow (mandatory)
 - Determine requested date **relative to the user's timezone**, today/tomorrow, via a current local clock when available.
-- Verify latest Moroccan timezone rules explicitly; **from 2026-09-20 Morocco uses GMT/UTC+0**, while Berlin is CET (UTC+1) in November 2026. Old OS tzdb versions may show an outdated Moroccan offset; confirm with fresh authoritative web sources.
+- Recheck Morocco and Germany's timezone/DST offsets for the actual planned date; never assume an offset from a previous upload.
 - Check latest reliable posting studies *and* user account's TikTok audience analytics when accessible. Generic averages are a **starting experiment**, not a guaranteed best time.
-- Give one primary recommended posting hour with both timezones and optional alternate if materially useful. Explain how to compare results for next posts.
+- Only in the **per-video publishing response**, give one researched posting time in both local timezones, and an alternate if justified. GitHub documents the decision process, **not a universal hour or a previously selected hour**. Explain how to compare results for subsequent uploads.
 
 ### Required final delivery for every video
 - Verified MP4.
@@ -39,7 +39,7 @@ All finished videos must be accompanied by a **four-part Publishing Pack** (the 
 
 **Do not silently omit any of the four deliverables.** If lack of tooling prevents a file upload or current keyword inspection, say what is missing and supply the strongest supported partial result.
 
-## ABT RS5-R example (2026-11-04)
+## ABT RS5-R example (SEO caption and hashtags only)
 Copy-ready:
 ```
 ABT Audi RS5-R: 720 PS, nur 130 Stück – 62.000 € ohne Auto?! 😳
@@ -47,7 +47,7 @@ ABT Audi RS5-R: 720 PS, nur 130 Stück – 62.000 € ohne Auto?! 😳
 #AudiRS5 #ABTSportsline #RS5R #AudiTuning #AutoNews
 ```
 
-Recommended **Wednesday 4 November 2026 at 19:00 Morocco (GMT) / 20:00 Germany (CET)**. Experiment grounded in Metricool 2026 global evening peak around 20:00 Germany time; profile analytics should supersede global averages.
+**Posting time is deliberately not recorded here.** Research the most suitable time separately for each upload using TikTok audience analytics and current market evidence.
 
 ### References
 - ABT official 29 October 2026 release: https://www.abt-sportsline.com/company/media/press-releases?cHash=8ea4111a5342949cb26b8dbea127c08f&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=7072
