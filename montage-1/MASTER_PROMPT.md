@@ -25,7 +25,7 @@
 ## Audio and synchronization
 13. خدم لائحة timestamps من waveform **والسماع الحقيقي** لأهم الكلمات بالألمانية. Dynamic align لكل card with actual word onset, SFX transient with the same reveal frame, image with phrase semantics. ممكن Riser يسبق اللحظة وينتهي عليها.
 14. حل مشكل الـdécalage: لا تعتمد فقط على تقريبات Shotlist أو timing آخر نسخة. بعد إخراج MP4، اسمع وشوف عند **0.5× ثم 1×** وراجع وقت الصورة/الكلمة/الصوت. اكتب sync cue CSV: spoken phrase, measured word onset, card in/out, impact transient, shot in/out.
-15. Audio mix: VO واضح على SFX، no clipping, proper trims/fades/ducking. لا تضيف SFX عشوائياً؛ يمكنك إعادة SFX جيد دون فرض تنويع مصطنع.
+15. **Mandatory Audio QC:** VO واضح ومتوازن من البداية للنهاية، SFX ما يغطيش الكلام، no clipping، trims/fades/ducking، EQ/de-esser/compression خفيف فقط عند الحاجة. قِس integrated LUFS وtrue peak إذا توفرت أدوات القياس؛ استعمل تقريباً -14 إلى -16 LUFS وtrue peak ≤ -1 dBTP كنقطة انطلاق تحريرية، **ماشي شرط رسمي من المنصة**. راجع الصوت على MP4 النهائي كاملاً بالسماع، خصوصاً هواتف وسماعات إن أمكن؛ راقب تفاوت ارتفاع الكلمات، صفير SFX، الضوضاء وتشوه الصوت. وثّق القياسات والفحوص اللي تمت فعلاً وما تدّعيش أنك سمعت الصوت أو جربت جهاز ما استعملتيهش. لا تضيف SFX عشوائياً؛ يمكنك إعادة SFX جيد دون فرض تنويع مصطنع.
 
 ## Delivery and independent QC
 16. قبل التسليم حلّ الفيديو بعد التصدير، تأكد من codec/frame count/duration/size/decode، ثم QA فنية: shot boundaries، no flash frame، overlay card exits before cut، audio levels، legibility on mobile، shot variety، color consistency، crop tracking.
