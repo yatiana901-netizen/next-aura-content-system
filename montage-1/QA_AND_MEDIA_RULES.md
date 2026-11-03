@@ -11,6 +11,15 @@
 - Inspect entire final MP4 for flashes, black frames, unintended shot blends, audio distortion, unintended effect repetition, reversed logos or text.
 - Check duration, frame count, codec, audio, peak levels, playback and full decode.
 
+## Mandatory audio quality and loudness gate (approved 2026-11-03)
+Every Next Aura export must be reviewed for **how loud, clear, balanced, and pleasant it actually sounds**, not only whether an audio track exists.
+- **Voice-over first:** listen to the full German VO before mixing. Repair inconsistent levels, unnecessary silence, mouth clicks, harsh sibilance, rumble/noise and abrupt edits when present; use subtle EQ, de-essing and compression only as needed. Avoid a muffled, overprocessed or robotic voice.
+- **Consistent perceived volume:** measure integrated loudness (LUFS), short-term/segment variations, true peak (dBTP), and inspect for clipping. As an **initial editorial target rather than a YouTube/TikTok requirement**, aim approximately **-14 to -16 LUFS integrated** for the mixed Short and a **true peak at or below -1 dBTP**, adjusting by ear for the actual content. Do not normalize every transient to the same level or crush dynamics just to hit a number.
+- **SFX balance:** choose high-quality relevant effects, trim silent tails, use short fades, and ensure accents are heard without masking words. Reduce/duck SFX under overlapping speech; manually check each impact, whoosh and riser at intended playback level. Remove weak/noisy/unnecessary sounds. **No background music**.
+- **Sync:** listen to the final export for actual spoken-word onset vs picture/card/SFX attack. Inspect in full at 1×, replay risky cues at 0.5×, and fix any offset before approval.
+- **Real-device check:** audition on normal phone speakers and headphones where available. The VO must remain understandable at moderate phone volume; SFX must not sound piercing or disproportionately loud. If physical-device playback is unavailable, disclose it as unverified rather than claiming it passed.
+- **Release report:** note measured LUFS and true peak if instruments were run, any defects fixed, and listening checks actually completed. Export/decoding alone never proves a good audio mix. If no reliable listening or meter analysis is possible, mark audio QA incomplete and provide next actions.
+
 ## Rights and limitations
 - Permissions for the user-supplied third-party ABT footage and SFX have not been verified; do not claim copyright clearance.
 - Mirroring, cropping, reframing, adding subtitles or SFX do not remove copyright or substitute licensing.
