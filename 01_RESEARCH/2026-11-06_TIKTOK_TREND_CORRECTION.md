@@ -1,3 +1,13 @@
+## SECOND USER CORRECTION — 2026-11-06: NO VALIDATED GERMAN AUTOMOTIVE TREND
+**Authoritative current decision:** User rejected both Mercedes Holo Display and Tesla Roadster as current German TikTok trends. **Neither is an approved trend-led Next Aura topic.** Any earlier wording implying Tesla was a good next selection is superseded. Stage 01 trend gate is **BLOCKED / NO TOPIC SELECTED**. Do not automatically proceed to Stage 02/03 or treat the older Mercedes research as trend proof.
+
+**Additional public evidence attempted:** TikTok Creative Center's public `countryCode=DE&period=7` page returned **United States** listings, so US hashtag views or growth CANNOT substantiate Germany. Independent automotive weekly report was dated October 27, not a current German-verified topic. DWDL's real Germany car display format report was dated October 21, not evidence of new November 6 acceleration. Generic car hashtags, global TikTok views, German news headlines and unrelated YouTube virality fail the user's bar.
+- https://ads.tiktok.com/creative/creativeCenter/trends?countryCode=DE&period=7
+- https://www.dwdl.de/magazin/105105/was_aktuell_auf_instagram_und_tiktok_viral_geht
+- https://www.submarine.ai/trending/cars/tiktok
+
+**Next stage 01 readiness:** Need at least two timely, concrete, independently verifiable automotive TikTok posts (prefer German creators/DE region) about the SAME exact subject, with dated URL, views, publication timestamp, current growth/velocity and relevance to an original Next Aura explainer. If public web tools lack authenticated Germany-filtered results, mark NO VERIFIED TREND and do not invent an answer. User-provided direct TikTok screenshots/links may support direct verification but are not required before saying no confirmation.
+
 # TikTok Momentum Gate — 2026-11-06 correction
 **Trigger:** User reviewed TikTok results and rejected Mercedes Holo Display as non-trending.
 **Status:** Mercedes PAUSED for TikTok trend-led posting. Its selection score (91/100) was a subjective creative quality score and must not be represented as viral data. Earlier research and fact-check are retained as factually useful archives.
