@@ -60,3 +60,6 @@ Every new Next Aura video follows the same required pipeline covering research, 
 - **[tools/next_aura_pipeline.py](tools/next_aura_pipeline.py)** — small runnable stdlib Python CLI for project setup, recording evidence and enforcing QA checkpoints; ffprobe optional.
 
 **Important:** The local CLI is a project organizer / evidence gate, not an automatic video editor, automated human listener, copyright verifier or CapCut GUI controller. Final edits still need actual supported editing tools, real audio/video review, user approval and licensing evidence. Do not call first-cut previews final.
+
+## Numbered video stages — ETAPE BACH KADO VIDEO (2026-11-06)
+Use the [12-step interactive Next Aura workflow](00_MASTER_SYSTEM/ETAPE_BACH_KADO_VIDEO/README.md). Send the stage number 1–12 in chat and follow its evidence/QA gates. This is a user-facing view of the existing 11-stage authoritative pipeline, not a replacement.
