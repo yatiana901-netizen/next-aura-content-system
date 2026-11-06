@@ -1,3 +1,5 @@
+> **EDITORIAL CORRECTION (2026-11-06):** Mercedes Holo Display is **NOT VERIFIED as a TikTok Germany trend**. Its earlier 91/100 score was a subjective creative/editorial rubric, not platform trend validation. User found no matching trend on TikTok. Therefore topic is **PAUSED / REJECTED as a trend-led priority**, pending evidence of comparable German TikTok posts, recent views and velocity. The factual Stage 02 dossier and Stage 03 research remain archived for possible evergreen reuse, not proof of momentum. See [trend evidence audit](../2026-11-06_TIKTOK_TREND_CORRECTION.md).
+
 # Next Aura — Stage 01 / SELECTED TOPIC
 **Topic ID:** MERCEDES_HOLO_2026-11-03
 **User project:** Next Aura — German AutoTech.
