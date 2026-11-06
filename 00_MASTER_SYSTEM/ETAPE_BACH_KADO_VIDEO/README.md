@@ -44,3 +44,6 @@
 - [FINAL_RELEASE_GATE.md](./FINAL_RELEASE_GATE.md) — required final QA and rights review.
 
 **Default statuses:** `NOT_STARTED` → `WORKING` → `PARTIAL` / `BLOCKED` / `PASS`. `PASS` means that stage's evidence exists, not that the overall video is finished.
+
+## Permanent media asset and transition library
+See [ASSET_LIBRARY_AND_TRANSITIONS.md](./ASSET_LIBRARY_AND_TRANSITIONS.md) for verified Google Drive storage folders, upload workflow, asset IDs, SFX and transition catalogs, existing archive status and exact reuse rules. This is the canonical reference for the user's "store once and use again" workflow.
