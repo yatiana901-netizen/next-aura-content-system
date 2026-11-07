@@ -51,3 +51,12 @@ Research should end with:
 - source links
 - footage search terms
 - what not to claim
+
+## TikTok Germany verified trend gate — expanded across ALL machine categories (2026-11-07)
+- Category scan: cars/motorcycles/F1, civilian and military aviation, ships/submarines/naval/mega-yachts, defense machines and vehicle engineering, rail, drones/eVTOL, space/rockets, industrial and heavy machinery.
+- **Separate trend verification from news research.** A brand/OEM press release proves freshness, NOT TikTok momentum. No creative scoring (like 91/100) may be labeled "trending".
+- For trend-led picks, collect **at least two recent, specific posts on the same subject** from independent TikTok accounts or trustworthy region-filtered analytics; log actual post URLs, upload dates, views, growth/velocity and German-language/DE audience relevance. One exceptional verified DE signal may be considered with rationale.
+- Use status `GERMANY_TIKTOK_VERIFIED`, `GERMANY_UNVERIFIED`, `GLOBAL_ONLY`, `NEWS_ONLY` or `REJECTED`. If access to TikTok region data is blocked/mislocalized, mark uncertainty; do NOT substitute US/global hashtags or German headlines.
+- Check media authenticity and rights (especially AI aviation/defense memes), and footage availability. A trending demonstration must not be misrepresented with unrelated clips.
+- Only select one final topic if the user's **trend-led** gate passes. Otherwise submit an evidence-limited watchlist clearly labeled NOT VERIFIED and keep Stage 01 OPEN rather than invent a winner.
+- Personal account analytics and direct current TikTok screenshots/links can supplement verification but may be unavailable; do not ask repeatedly when a source fails.

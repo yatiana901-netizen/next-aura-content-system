@@ -51,3 +51,8 @@ Hourly condition watch.
 - drones / eVTOL
 - mega-ships
 - superyachts
+
+## Expanded coverage request — 2026-11-07
+User wants trend scouting across cars, **airplanes (civil/military), ships, naval vessels/submarines, military equipment, space and all impressive engineering machines**. This expands the research scope, not just the previous automotive-heavy source list.
+**Operational caveat:** existing `08_RADAR` code lists primarily OEM automotive and F1 sources; this doc update does not claim the Cloudflare Worker is deployed, that aviation/marine/defense feeds were added to its code, or that TikTok Germany regional trend signals are being automatically monitored.
+Future source additions require verifying official/public reliable feeds, honoring rights/robots/platform limits, and recording actual runtime tests. Never label an unverified or global story as trending in Germany.

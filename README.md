@@ -3,7 +3,7 @@
 Private operating system for **Next Aura**.
 
 ## Positioning
-**Automotive Technology + Mobility Engineering + Luxury Machines**, with a strong German-language audience focus.
+**Engineering & Extreme Machines**, with a German-language audience focus: automotive, planes (civil/military), ships/naval/submarines, defense equipment, space/rockets, rail, drones and massive industrial machines. This expanded scope was explicitly user-approved on 2026-11-07; retain factual, high-value technical explanations.
 
 Core pillars:
 - Automotive / EV / vehicle engineering
@@ -13,7 +13,9 @@ Core pillars:
 - Aviation engineering
 - Trains / high-speed rail
 - Drones / eVTOL
-- Ships, mega-ships, superyachts and luxury marine engineering
+- Ships, mega-ships, superyachts, submarine and naval engineering
+- Military equipment/defense technology, as factual high-level engineering news
+- Space, rockets, heavy industrial machines and robotics
 
 ## Core content rule
 **Fresh topic → hidden angle → verified facts → strong German hook → visual story → concise VO → precise shot plan → publish → analyze**
