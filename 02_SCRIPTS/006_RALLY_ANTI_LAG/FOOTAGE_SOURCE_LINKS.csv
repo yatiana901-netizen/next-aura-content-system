@@ -1,0 +1,9 @@
+id,priority,source,owner,event_year,role,inspection_status,rights_status
+ALS-VID-01,P0,https://www.youtube.com/watch?v=ar2Pnuv4rJo,19Bozzy92,2016,Part1_Hook,WEB_LISTING_ONLY,NOT_CLEARED
+ALS-VID-02,P0,https://www.youtube.com/watch?v=uGyrOR7thVA,MattyB727,2016,Part1_Night_Action,WEB_LISTING_ONLY,NOT_CLEARED
+ALS-VID-03,P1,https://www.goodwood.com/grr/race/historic/video-glorious-escort-wrc-anti-lag/,Goodwood,2021,Part1_Action_Onboard,WEB_LISTING_ONLY,NOT_CLEARED
+ALS-VID-04,P1,https://www.youtube.com/watch?v=xXA5mtuT0Eg,19Bozzy92_and_collaborators,2021,Part1_Part3_Rally_Action,WEB_LISTING_ONLY,NOT_CLEARED
+ALS-VID-05,P2,https://www.youtube.com/watch?v=oIMyt-4eNlY,19Bozzy92,2012,Part1_Alt_AntiLag_Sound,WEB_LISTING_ONLY,NOT_CLEARED
+ALS-VID-06,P2,https://www.youtube.com/watch?v=NuKqhqCnzs4,Italiansupercarvideo,2014,Part1_Vertical_Reference,WEB_LISTING_ONLY,NOT_CLEARED
+ALS-VID-07,P1,https://www.garrettmotion.com/news/video-center/video/how-a-turbocharger-works/,Garrett_Motion,unknown,Part2_Reference,WEB_LISTING_ONLY,NOT_CLEARED
+ALS-VID-08,P1,https://www.garrettmotion.com/news/video-center/video/how-to-turbo-a-race-car-part-1-how-a-turbo-works/,Garrett_Motion,unknown,Part2_Reference,WEB_LISTING_ONLY,NOT_CLEARED
