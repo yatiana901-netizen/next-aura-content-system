@@ -44,6 +44,14 @@ GATE 4: exact source-boundary and spoken-word references; no fake perfect sync c
 - Standard master target: 1080x1920, 30fps vertical, H.264/AAC, no bars, no platform watermark.
 - ALL useful 16:9 moving-car shots get intelligent tracking/camera follow when needed: animated crop X/Y/keyframes tied to actual car position, natural ease, leading room towards direction of travel, stable horizon.
 - Inspect beginning, midpoint, end and fast changes. Never rely on fixed center crop when car moves out of frame. Never cut off nose/headlamps/subject unnecessarily. Avoid extreme digital zoom and abrupt snap-back.
+
+### New reusable editing improvement — 16:9 → 9:16: adaptive fit with blurred background (user-approved, 2026-11-07)
+- **Do not force a full-screen center crop** when important real visual information would be cut off: a crash, whole vehicle/aircraft/vessel, speedometer, safety margin, multi-object interaction, onboard footage or technical context.
+- **Use FIT + BLURRED BACKGROUND when needed**: place the complete native-aspect source frame centered and sized to fit the 1080×1920 canvas; duplicate the SAME source behind, scale the background layer to fill the portrait canvas, apply a soft tasteful blur (and optional slight darkening) so the foreground remains clearly dominant. No black bars, unrelated stock backgrounds, excessive glow or obviously artificial decorations.
+- **Choose per shot, not globally**: (a) intelligent camera-follow crop when subject tracking preserves the story and fills frame; (b) fit + blurred background when cropping loses essential context; (c) native full-screen portrait for valid vertical media. Smooth changes in composition when adjacent shots mix methods.
+- **Per-shot QA**: confirm entire subject, exhaust flame, direction of travel, impact moment, cockpit instrument, numeric proof and meaningful secondary subjects remain visible; verify foreground legibility on small phones and no distracting oversized/doubled background subject.
+- **Evidence standard**: no claim the technique was applied, watched or quality-checked on a specific clip until the actual project/export is reviewed. This is a portable workflow preference, not a completed edit.
+
 - Select best distinctive hero angles, close-up wheels/exhaust/engine/interior, motion and track footage. Natural premium contrast, correct colors/clarity, no AI-looking fake hardware.
 - Mirror only selectively and never reverse badges, writing, real geometry/directional facts. Mirror does not remove copyright.
 GATE 5: full visual review of tracking and natural motion, no low-value scene.
