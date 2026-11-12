@@ -22,7 +22,8 @@ Present a concrete recommendation in Darija:
 5. For EVERY proposed video/part: estimated duration range, hook, precise points in order, real visual proof and ending.
 6. Planned emotional reaction, matching phrase/event, asset format and rough duration, or no reaction if it adds nothing.
 7. Available footage, missing shots and proposed fallback for each gap; unresolved facts/audio that may change the plan.
-8. Ask the user to choose the recommended plan or adjust it before dependent production.
+8. Proposed short German follow CTA, its position after the payoff and any optional visual/SFX treatment; include its spoken time in the runtime estimate (section 13).
+9. Ask the user to choose the recommended plan or adjust it before dependent production.
 
 | Video/part | Estimated duration | Hook | Topics | Visual proof / fallback | Reaction | Payoff |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -59,7 +60,7 @@ Collect the following as research inputs; do NOT force the entire list into one 
 
 Useful angles: unexpected movement, hidden component, apparent contradiction, clear side-by-side test, clever solution to a familiar problem, or a feature with a meaningful trade-off.
 One video = one main idea. Prefer visible evidence over a list of horsepower, price and top speed.
-Story order: show the surprising fact → why it matters → explain simply → demonstrate the result. A relevant question/CTA is optional and must not weaken the ending.
+Story order: show the surprising fact → why it matters → explain simply → demonstrate the result. A relevant audience question is optional. A short follow CTA is REQUIRED in every video/part (see section 13); integrate it without weakening the payoff.
 
 ## 5. Emotion-matched reactions, memes and light trolling
 The user authorizes short reaction-video inserts, troll/meme beats and character images that express the emotion of the current spoken line or visual event.
@@ -136,6 +137,7 @@ Do not call a Pin image a verified video. Do not claim to have listened, downloa
 - Actual runtime measured and consistent with the user-selected plan, natural speech and no filler; no universal duration cap.
 - User chose duration, topics and structure before final VO/editing. Posting-time recommendations are deferred until the video is finished.
 - Reaction cutouts, size, placement, static-image motion and missing-shot substitutions reviewed.
+- Follow CTA present in every video/part: topic-relevant German line, positioned after useful value, clearly audible, optional graphic readable and synchronized, no covered evidence or false sequel promise (section 13).
 - State which checks were performed and which remain pending.
 
 ## 11. Occasional series — same-brand cars and value in Germany
@@ -182,6 +184,50 @@ Specific topics referenced in this conversation:
 - McMurtry Spéirling upside-down demonstration: proposed next topic, NOT selected by the user yet. Earlier tentative recommendation was one 28–35 s explainer; this remains an estimate, not a mandated duration. Manufacturer source: https://mcmurtry.com/upside-down-driving/ (published April 2025; VP1 prototype on a purpose-built rotating platform, not a fresh 2026 event). The official linked video is https://youtu.be/g6LYcgaQ46c . Locate/inspect actual shots before claiming clip readiness.
 Reaction memes, lightweight animation, zoom/pan and hook shots are editing tools that support these stories, not required standalone content categories.
 
+## 13. Required follow CTA — every video
+User-approved addition: 2026-11-12. Every video, including every part of a series, must invite viewers to follow. This supersedes older wording that makes the follow CTA optional. The invitation is required; an on-screen graphic and SFX are optional.
+
+### Purpose and script
+- Write a short, natural German VO invitation tied to the value of this episode or channel: useful car technology, hidden details or German-market buying comparisons.
+- Give a concrete reason to follow. Vary wording with the subject; do not mechanically paste the same outro into every video.
+- Default to one concise invitation per video. Do not stack follow, like, share, comment and subscribe requests into a long closing speech.
+- Do not promise a sequel unless it is actually planned. Do not withhold the answer, invent urgency or make following a condition for receiving the explanation.
+- Use platform-appropriate wording when preparing separate versions: “Folge uns” for TikTok/Reels; “Abonniere den Kanal” can be used for YouTube. Do not put conflicting platform prompts in the same version.
+
+### Timing and pacing
+- Deliver the useful explanation/result first, then integrate the CTA into the closing beat or a suitable continuing hero shot. Never interrupt the opening hook, the crucial technical movement or the evidence.
+- Keep the action and ending satisfying. No empty black outro, prolonged logo hold or abrupt audio cut just to accommodate the invitation.
+- Include the CTA words in the initial duration estimate and measure the real audio later. Do not rush the narrator or revive any fixed 20/25-second rule.
+- Mark the exact CTA line and planned shot in the storyboard; determine actual in/out from the recorded German VO, not guessed timestamps.
+- If the ending loops, integrate the invitation so the visual/audio return remains natural without hiding the result.
+
+### Optional visual and sound treatment
+- A small, clean “Folgen”/Follow icon or relevant platform cue may support the spoken invitation. This is a brief CTA, not permission for persistent subtitles or large text panels.
+- Balance size for phone readability; use available negative space and platform safe areas. Never cover the car, technical detail, price comparison or payoff.
+- Use a restrained pop, fade or gentle scale movement if helpful. Avoid flashing, exaggerated bouncing or a graphic that overwhelms the scene.
+- If adding SFX, use a short appropriate nonmusical sound, synchronized with the graphic entrance or spoken follow word. Keep VO intelligible; no music or musical stinger.
+- Align entrance to the actual spoken phrase, keep the cue readable long enough, and clear it before a conflicting cut. Do not let the overlay leak unintentionally into another shot.
+
+### German examples (adapt to the actual episode)
+| Context | German CTA | Meaning in Darija |
+| --- | --- | --- |
+| Car technology | Folge uns für mehr Autotechnik. | تابعنا للمزيد من تقنيات السيارات. |
+| German-market value comparisons | Welches Auto lohnt sich wirklich? Folge uns. | شنو الطوموبيل اللي كتستاهل فعلاً؟ تابعنا. |
+| Hidden details | Mehr versteckte Auto-Details? Folge uns. | بغيتي تفاصيل أخرى مخبّية فالسيارات؟ تابعنا. |
+| YouTube technology version | Abonniere den Kanal für mehr Autotechnik. | اشترك فالقناة للمزيد من تقنيات السيارات. |
+| A genuinely planned next part | Folge uns für den nächsten Teil. | تابعنا للجزء الجاي؛ غير إلا كان مبرمج فعلاً. |
+
+These examples are alternatives, not multiple lines to include in one video.
+
+### Required production record and QA
+Record: exact German line; reason to follow; selected platform; planned closing shot; estimated and then measured CTA in/out; optional graphic placement/animation; optional SFX cue.
+- Script check: invitation present, concise, natural German and relevant to the content.
+- Story check: viewer receives the promised payoff before the invitation; no interruption of important action.
+- Audio check: CTA is audible, natural-paced and not masked by SFX; remove unnecessary dead air without clipping words.
+- Visual check: optional cue is readable at phone size, within safe areas, unobtrusive and synchronized with actual VO.
+- Ending check: no accidental cut-off, prolonged outro, broken loop or unsupported sequel promise.
+- Final export check: verify the CTA in the assembled export, not just the script or timeline. Report any listening/playback verification that remains pending.
+
 ## ملخص بالدارجة
 تحيدات قاعدة 20 ثانية وسقف 25 ثانية: ما كاينة حتى مدة ثابتة مفروضة. قبل التنفيذ، الشات يقترح المدة والمحاور وواش فيديو واحد ولا أجزاء مع السبب؛ المستخدم يختار عاد نبداو الـVO والمونتاج. وقت النشر نخليوه حتى يسالي الفيديو، مع العنوان والوصف والـhashtags؛ ماشي شرط قبل الخدمة.
 اللقطة الناقصة نعوضوها بـanimation خفيفة إلا أمكن، وإلا فيديو عادي مناسب أو لقطة hookية مرتبطة بالموضوع بلا تضليل؛ إلا ما نفع حتى حل نحيدو الجزء ونعدلو الـVO.
@@ -189,3 +235,5 @@ Reaction memes, lightweight animation, zoom/pan and hook shots are editing tools
 نجمعو من Pinterest صور وفيديوهات حسب كل émotion ونفحصو الأصل والجودة والخلفية والصوت قبل الاستعمال.
 
 سلسلة إضافية من حين لآخر: نقارنو سيارات من نفس الماركة فـألمانيا، رخيصة ولا غالية، ونوضحو النسخة والتجهيزات والثمن المؤرّخ والمزايا والعيوب ولمن مناسبة وواش كتستاهل وعلاش. ما نخلطوش ثمن الكتالوج مع عروض الوكلاء أو المستعمل؛ المدة والتقسيم يختارهم المستخدم قبل التنفيذ.
+
+الـFollow ضروري فكل فيديو وحتى فكل جزء: جملة ألمانية قصيرة وطبيعية كتجي من بعد المعلومة أو النتيجة، مع سبب واضح للمتابعة. نبدلو الصياغة حسب الموضوع؛ الأيقونة وSFX اختياريين، متزامنين وبلا ما يغطيو التفاصيل أو الـVO. ما نوعدوش بجزء جاي إلا كان مبرمج. ندخلو مدة الجملة فالتقدير ونراجعو حضورها ووضوحها فالتصدير النهائي.
