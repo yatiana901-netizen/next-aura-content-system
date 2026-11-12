@@ -2,36 +2,35 @@
 User-approved direction: 2026-11-12. Applies to future Next Aura videos.
 Communicate plans in Moroccan Darija; write the spoken video script in natural German.
 
-## Precedence
-This policy supersedes older default runtime suggestions (including 25–45 s or about one minute) for NEW videos. Historical ABT/Porsche runtimes remain reference records, not target durations; do not recut archived videos without a request.
-The 25-second ceiling is a user production constraint, not a proven algorithm rule or a guarantee of views. Other factual, visual, no-music and honest-QA rules remain in force.
+## Precedence — revised user decision, 2026-11-12
+There is NO fixed runtime ceiling and NO automatic duration threshold for proposing a split. The user explicitly withdrew both the previous 20-second trigger and 25-second cap. Do not revive them, or replace them with another arbitrary limit. Historical exports are reference records, not runtime targets. Other factual, visual, no-music and honest-QA rules remain in force.
 
-## 1. Duration and the decision to split
-- Every finished video or episode must be at most 25.0 seconds, INCLUDING reaction inserts, pauses, transitions, intro/outro and CTA.
-- Shorter is welcome when the idea is complete; do not pad to 20 or 25 seconds.
-- Before drafting the final VO or editing, proactively estimate the natural runtime and recommend one video versus two or more parts. Do not wait for the user to ask.
-- If the estimate exceeds 20 seconds, explicitly compare (a) one complete 21–25-second video and (b) a meaningful series. Over 20 seconds triggers a recommendation, NOT an automatic split or a ban.
-- If the story needs more than 25 seconds, narrow the angle or split it into two or more episodes, each at most 25 seconds. The earlier mention of 40 seconds is superseded: do not wait for 40 seconds to consider a split.
-- Recommend the smallest number of episodes that gives each idea a natural explanation. Do not stretch one thin idea into a series.
-- Each episode has its own hook, one main question, visual evidence, explanation and satisfying payoff. It must make sense independently; no arbitrary mid-sentence cuts or withholding the entire answer solely to force Part 2.
-- Give each part a distinct angle and appropriate shots; avoid recycled filler and lengthy recaps. A brief bridge or optional next-part tease must fit the cap and not replace the payoff.
-- Never force fast or unnatural VO to fit. Trim weak words/claims, simplify, or split.
+## 1. Recommend first; the user chooses
+- For each subject, proactively estimate the natural runtime and recommend a single video or a series based on the story, available footage, clarity, pacing and intended publishing context.
+- No forced minimum, maximum, one-minute target, or automatic number of parts. Do not pad, rush speech or split a thin idea just to satisfy a number.
+- Explain what will be covered, what should be omitted, and why the recommendation fits this topic.
+- If a series is useful, each part has a distinct angle, its own hook, evidence, explanation and satisfying payoff. No arbitrary mid-sentence cuts or withholding the entire answer to force Part 2.
+- Propose dated publishing times for the German audience, with corresponding Morocco time and the evidence behind them. Use current account analytics where available; otherwise label the proposal as a test, not a guaranteed best time. Check actual date/time-zone offsets; avoid universal fixed hours.
+- Posting context can inform packaging or a series schedule; it does not by itself prove an ideal runtime.
+- Present the concrete proposal, then WAIT for the user's choice of duration, single video/parts and posting plan BEFORE final VO or montage execution. Research and feasibility work may continue while waiting. An already explicit choice in the current task need not be reconfirmed.
+- Choosing a posting plan is not authorization to publish unless the user also asks to publish.
 
 ## 2. Required proposal BEFORE final VO / editing
-Present a concrete recommendation in Darija, with these fields:
-1. Exact subject/model and the surprising main angle.
-2. Why someone would stop scrolling, and what useful answer they receive by the end (editorial hypothesis, not promised virality).
-3. Approximate natural total runtime if all proposed material were one video; label it an estimate.
-4. Recommended format: one video or N parts, with the reason. If above 20 s, explain the single-video vs series choice.
-5. For EVERY proposed video/part: approximate duration range (upper bound <=25 s), hook idea, precise points to cover in order, main real visual proof, and ending/payoff.
-6. Planned emotion/reaction, associated spoken phrase or meaning, format (reaction clip / character image / no reaction), and rough duration.
-7. Missing footage, facts or audio that could change feasibility or runtime.
+Present a concrete recommendation in Darija:
+1. Exact subject/model and surprising main angle.
+2. Why someone might stop scrolling and the useful payoff (hypothesis, not promised virality).
+3. Approximate natural total runtime if all proposed material were one video; clearly label as an estimate.
+4. Preferred format: one video or N parts, with reasoning and a useful alternative where appropriate.
+5. For EVERY proposed video/part: estimated duration range, hook, precise points in order, real visual proof and ending.
+6. Planned emotional reaction, matching phrase/event, asset format and rough duration, or no reaction if it adds nothing.
+7. Available footage, missing shots and proposed fallback for each gap; unresolved facts/audio that may change the plan.
+8. Proposed publication date/time per platform and, for a series, per part; Germany and Morocco equivalents, analytics basis or test assumption.
+9. Ask the user to choose the recommended plan or adjust it before dependent production.
 
-Use a compact table:
-| Video/part | Estimated duration | Hook | What we cover | Visual proof | Reaction | Payoff |
-| --- | --- | --- | --- | --- | --- | --- |
+| Video/part | Estimated duration | Hook | Topics | Visual proof / fallback | Reaction | Payoff | Proposed posting time |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
-Give your preferred choice and why, not only a menu. This proposal is not an extra permission gate: follow the user's authorized scope, and continue when they have asked you to execute.
+Give your preferred choice and why, not only a menu. This user-requested choice replaces the older instruction to proceed automatically after a duration proposal.
 
 ## 3. Estimate honestly, then measure
 - During planning, estimate from the German script length and an explicitly stated natural delivery pace, plus non-overlapping visual holds/reaction time. A trial range such as 135–165 words/minute may help, but calibrate to the actual narrator; it is not a fixed voice setting.
@@ -39,10 +38,10 @@ Give your preferred choice and why, not only a menu. This proposal is not an ext
 - Do not double-count a reaction that runs underneath uninterrupted VO. A reaction-only pause does add time.
 - Report a range, not fake frame precision before audio exists. E.g. “estimated 21–24 s; confirm after the ElevenLabs take.”
 - Once VO arrives, listen when supported, trim only unnecessary silence, measure the real take, update the shot plan and check the exported file duration.
-- If the real cut exceeds 25 s, revise or split before delivery. Do not call an estimate a measured runtime.
+- Compare the actual cut with the user-selected duration range. If it materially changes the chosen plan, explain the cause and propose a revision for the user to choose. Do not enforce a universal cutoff or call an estimate a measured runtime.
 
 ## 4. Information to research for a car story
-Collect the following as research inputs; do NOT force the entire list into one 25-second episode.
+Collect the following as research inputs; do NOT force the entire list into one episode.
 | Input | Editorial question |
 | --- | --- |
 | Distinctive feature | What does this car do that makes someone ask “how?” |
@@ -74,7 +73,7 @@ This is permission for brief expressive inserts, not a permanent presenter or a 
 
 Execution:
 - Choose reactions during scripting, with a named emotional purpose and matching phrase/event. Do not attach random trending memes.
-- Roughly 0.5–1.5 s is an initial creative range, not a mandatory length. Two or three reactions was a trial suggestion, NOT a quota; in a <=25 s video use fewer or none if stronger.
+- Roughly 0.5–1.5 s is only an initial creative range, not a mandatory length. There is NO minimum or maximum reaction count and no two-or-three quota. Use each only at the exact moment where it adds meaning, humor or excitement; omit it if it adds nothing.
 - A character image may enter with a quick controlled pop and subtle movement; a short video reaction may be an insert or unobtrusive overlay.
 - Keep important real action continuous and readable. Place the reaction after the evidence or in clear space; never hide the relevant component, cut the crucial movement, or obscure comparisons.
 - Match actual VO/visual beat and any nonmusical SFX accurately. Keep VO intelligible. Do not claim exact sync until reviewed.
@@ -84,13 +83,61 @@ Execution:
 - Treat reactions as editorial humor, never as evidence that the depicted person endorsed or reacted to this exact car.
 - Test the effect on clarity and actual analytics; do not promise better retention merely because memes were added.
 
-## 6. Final planning / delivery check
+## 6. Reaction cutouts, size and precise placement
+- Reaction photos AND reaction videos appear as isolated subjects with no visible original background. Use transparent assets, clean green-screen keying or reliable cutouts.
+- Inspect hair, hands and silhouette for halos, jagged edges, green spill and flickering video masks. Do not present an unprocessed rectangular meme background as meeting this preference. Replace or omit an asset if a clean cutout is not feasible.
+- Size is balanced per shot: the face/emotion must read on a phone, but the character must not dominate, look tiny or cover the car, component, telemetry or visual proof. No universal pixel size or fixed corner.
+- Choose available negative space and adjust position/scale to the scene. Review against platform UI safe areas and important source content.
+- Place the entrance on the meaningful spoken word or visual event; hold only long enough to understand the emotion and exit before distraction or a conflicting shot. Use measured VO timing when available.
+- A controlled pop, small zoom or appropriate nonmusical SFX is optional. Never mask VO. Number and intensity follow the value of the moment, not a quota.
+
+## 7. Purposeful motion for static photos or quiet shots
+- Push-in / zoom in: gently direct attention to a meaningful detail.
+- Pull-out / zoom out: begin on a detail and reveal the whole vehicle or context.
+- Small pan left/right/up/down: guide the eye along the relevant subject.
+- Use smooth eased keyframes and stable framing. Choose direction and amount per shot; do not mechanically repeat the same move everywhere or animate every image.
+- Keep important parts visible; no jitter, abrupt snap-back, stretching or excessive enlargement that exposes poor resolution. Review start, middle and end at mobile size.
+- Movement is an editorial camera treatment, not proof the pictured object physically moved. Do not make static evidence imply an unrecorded test or event.
+
+## 8. Missing-shot fallback workflow
+First inspect available sources and search for the required shot. In planning, list what exists, what is missing and the proposed substitute for each gap.
+1. If the idea is simple and a faithful explanation is feasible, use a LIGHT, short animation: direction arrows, simple lean illustration or component emphasis. Do not invent mechanics or measurements.
+2. If the needed sequence is long/complex or cannot be animated convincingly with available tools, use ordinary relevant real footage that supports the VO and keeps the meaning understandable.
+3. If the purpose is attention or context rather than evidence, a strong ordinary hook/hero shot of the relevant subject is acceptable. Do not imply it demonstrates a feature that is not shown.
+4. If neither simple animation nor suitable footage works, OMIT the weak segment and rewrite the VO/structure so the story remains complete. Do not waste production effort forcing an unconvincing complex animation.
+Distinguish evidence from illustration: a decorative shot can be substituted; a shot needed to substantiate a claim cannot be replaced with misleading imagery. If necessary, revise/remove the claim or choose a better-supported angle.
+Record: intended sentence/claim, shot purpose, available material, missing element, chosen fallback, factual limits and effect on estimated runtime.
+
+## 9. Reusable emotion library — Pinterest discovery
+Search collaboratively with the user and proactively where tools allow. Pinterest is a discovery source; inspect the original asset before judging it usable.
+| Emotion | Video search phrase | Image search phrase |
+| --- | --- | --- |
+| Confusion / thinking | confused thinking reaction green screen | confused cartoon character png |
+| Shock | shocked reaction meme green screen | shocked cartoon reaction png |
+| Skepticism | skeptical eyebrow raise reaction meme | suspicious cartoon face png |
+| Realization | realization reaction meme green screen | realization cartoon character png |
+| Light sarcasm / troll | smug smile reaction meme green screen | troll face transparent png |
+| Facepalm | facepalm reaction green screen | facepalm cartoon character png |
+| Approval / impressed | impressed nod reaction green screen | impressed cartoon character png |
+| Regret / expensive price | crying reaction meme green screen | crying cartoon character png |
+
+The user's skeleton-like character reference was labeled “hamlet png” in their screenshot; searches such as “hamlet png confused” or “hamlet png emotions” are leads, not verified attribution.
+Select emotionally readable assets that work without dialogue, remain legible at small size and yield a concise usable moment. A shortlist of one good image and one good clip per emotion is a starting collection idea, NOT a requirement or on-screen quota.
+For each candidate record: emotion, original link/creator if known, photo vs video, resolution, usable in/out, background-removal feasibility, audio/music status, provenance/usage status, and candidate vs inspected vs approved.
+Do not call a Pin image a verified video. Do not claim to have listened, downloaded, cleared or tested a candidate unless actually done. Evaluate reactions in context of the chosen shot rather than choosing only by popularity.
+
+## 10. Final planning / delivery check
 - Duration recommendation and rationale supplied before final scripting.
 - Every episode has its own estimated duration, exact subject points and payoff.
 - Every factual claim supported; needed visuals available or gaps explicitly identified.
 - Reactions match meaning and leave evidence visible; VO/SFX sync honestly reviewed.
-- Actual export <=25 s, with natural speech and no filler.
+- Actual runtime measured and consistent with the user-selected plan, natural speech and no filler; no universal duration cap.
+- User chose duration, structure and posting plan before final VO/editing.
+- Reaction cutouts, size, placement, static-image motion and missing-shot substitutions reviewed.
 - State which checks were performed and which remain pending.
 
 ## ملخص بالدارجة
-كل فيديو جديد ما يفوتش 25 ثانية بجميع الإضافات. إلا بان غادي يفوت 20 ثانية، الشات يقترح واش نخليوه واحد بين 21 و25 ثانية ولا نقسموه، ويشرح علاش. قبل الـVO يعطيني تقريباً شحال غادي يدوم، على شنو غادي نهضرو، والمدة والمحاور والنتيجة ديال كل جزء. الـtroll أو صورة الشخصية كتعبّر على الإحساس ديال داكشي اللي تقال، كتجي قصيرة وفبلاصتها، بلا ما تغطي الدليل وبلا موسيقى. ماشي ضروري نديروها فكل لقطة.
+تحيدات قاعدة 20 ثانية وسقف 25 ثانية: ما كاينة حتى مدة ثابتة مفروضة. قبل التنفيذ، الشات يقترح المدة والمحاور وواش فيديو واحد ولا أجزاء ووقت النشر فـألمانيا والمغرب مع السبب؛ المستخدم يختار عاد نبداو الـVO والمونتاج.
+اللقطة الناقصة نعوضوها بـanimation خفيفة إلا أمكن، وإلا فيديو عادي مناسب أو لقطة hookية مرتبطة بالموضوع بلا تضليل؛ إلا ما نفع حتى حل نحيدو الجزء ونعدلو الـVO.
+نحركو الصور واللقطات الهادئة بـzoom en avant/en arrière أو pan ناعم حسب الحاجة. الـréaction تكون بلا خلفية، بحجم متوازن وفالمكان والتوقيت المناسبين؛ لا عدد مفروض، غير فين كتضيف معنى وحماس، بلا موسيقى وبلا ما تغطي الدليل.
+نجمعو من Pinterest صور وفيديوهات حسب كل émotion ونفحصو الأصل والجودة والخلفية والصوت قبل الاستعمال.
