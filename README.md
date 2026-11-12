@@ -1,5 +1,8 @@
 # Next Aura Content System
 
+> **Current user update — 2026-11-12:** Read [Short-video planning and emotion reactions](00_MASTER_SYSTEM/SHORT_VIDEO_AND_REACTION_RULES.md) before scripting. Every new video/part must be **<=25 seconds including all inserts**. Above an estimated **20 seconds**, recommend one 21–25 s video versus a meaningful series and explain why. Before final VO/editing, present estimated runtime and the precise hook, topics, visual proof, reaction and payoff of each part. Brief emotion-matched reaction clips/character images are authorized; no music or permanent presenter. This policy supersedes older duration defaults; historical exports are not new runtime targets.
+
+
 Private operating system for **Next Aura**.
 
 ## Positioning
