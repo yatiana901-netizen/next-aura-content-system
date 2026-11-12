@@ -138,8 +138,52 @@ Do not call a Pin image a verified video. Do not claim to have listened, downloa
 - Reaction cutouts, size, placement, static-image motion and missing-shot substitutions reviewed.
 - State which checks were performed and which remain pending.
 
+## 11. Occasional series — same-brand cars and value in Germany
+User-approved addition: 2026-11-12. Alongside engineering explainers, occasionally compare several cars from the SAME manufacturer in the GERMAN market, affordable or expensive. New and used examples are allowed, but distinguish them explicitly.
+The main question: which car/version is good for which buyer, what important equipment does it offer, what does it cost in Germany, and is that price justified?
+
+Research before scripting:
+- Exact model, model year/generation, engine/powertrain and trim; for used vehicles, mileage, condition and relevant history.
+- Dated German-market prices with source links. Separate list price, dealer offer and used asking price; one listing is not a market average or a completed sale. Explain VAT/fees where they change the comparison.
+- Useful equipment: distinguish standard equipment, paid options and what the actual advertised example includes.
+- Evidence-backed strengths and weaknesses: comfort, space, performance, energy use and documented model/version issues. Do not generalize a problem across all engines or model years without evidence.
+- Relevant running costs: energy, maintenance, German vehicle tax; insurance varies with driver/profile/location, so do not invent one universal figure.
+- Value judgment relative to comparable German alternatives, equipment, age and condition. Explain the trade-off and intended buyer (city, family, Autobahn, travel, driving enjoyment).
+- Distinguish measured facts, manufacturer claims, listing information and editorial opinion. Do not call a car a bargain based only on its badge, horsepower or a low headline price.
+- Compare like-for-like where possible; clearly explain unavoidable differences rather than hiding them.
+
+Propose the shortlist, central question, approximate runtime and one video vs parts; user chooses before final VO/montage. No fixed duration limit. Recommend posting time only after completion with the publishing pack.
+Possible pitches (UNRESEARCHED examples, not verified recommendations or price claims):
+- Three BMWs at the same budget: which buyer should choose each?
+- The cheapest Mercedes in a defined German shortlist: value or badge premium?
+- Golf versus a well-equipped Polo: where does the money go?
+- A well-equipped used Audi: what should the buyer check?
+
+## 12. Editorial idea menu already discussed
+These are possible angles, not a fixed production queue, proof of availability or guarantees of views. Verify each proposed episode and inspect footage before scripting.
+| Format / angle | Central question / example |
+| --- | --- |
+| Unexpected movement | How does the Porsche rise when the door opens? |
+| Hidden component | Why is there foam inside this tire? |
+| Apparent contradiction | How can a heavy car handle corners so well? |
+| Clear comparison | Same bumps, system on/off or two cars: what actually changes? |
+| Clever solution | How does a feature reduce noise, heat or another familiar problem? |
+| Benefit versus trade-off | Is this option worth its price, requirements and disadvantages? |
+| Short engineering explainer | What does the component do, how, and with what visible result? |
+| German same-brand buying comparison | Which model/trim offers useful equipment and justified value? |
+| Status-aware tech/news | What really changed, and is it production, prototype, concept or planned? |
+
+Specific topics referenced in this conversation:
+- Porsche Panamera Active Ride: existing project/reference, not automatically a new duplicate episode.
+- BMW ALPINA tire foam / Nardo and Vision: earlier references; keep different models/studies distinct.
+- ABT RS5-R: earlier quality/content reference; not approval to recycle an existing story.
+- McMurtry Spéirling upside-down demonstration: proposed next topic, NOT selected by the user yet. Earlier tentative recommendation was one 28–35 s explainer; this remains an estimate, not a mandated duration. Manufacturer source: https://mcmurtry.com/upside-down-driving/ (published April 2025; VP1 prototype on a purpose-built rotating platform, not a fresh 2026 event). The official linked video is https://youtu.be/g6LYcgaQ46c . Locate/inspect actual shots before claiming clip readiness.
+Reaction memes, lightweight animation, zoom/pan and hook shots are editing tools that support these stories, not required standalone content categories.
+
 ## ملخص بالدارجة
 تحيدات قاعدة 20 ثانية وسقف 25 ثانية: ما كاينة حتى مدة ثابتة مفروضة. قبل التنفيذ، الشات يقترح المدة والمحاور وواش فيديو واحد ولا أجزاء مع السبب؛ المستخدم يختار عاد نبداو الـVO والمونتاج. وقت النشر نخليوه حتى يسالي الفيديو، مع العنوان والوصف والـhashtags؛ ماشي شرط قبل الخدمة.
 اللقطة الناقصة نعوضوها بـanimation خفيفة إلا أمكن، وإلا فيديو عادي مناسب أو لقطة hookية مرتبطة بالموضوع بلا تضليل؛ إلا ما نفع حتى حل نحيدو الجزء ونعدلو الـVO.
 نحركو الصور واللقطات الهادئة بـzoom en avant/en arrière أو pan ناعم حسب الحاجة. الـréaction تكون بلا خلفية، بحجم متوازن وفالمكان والتوقيت المناسبين؛ لا عدد مفروض، غير فين كتضيف معنى وحماس، بلا موسيقى وبلا ما تغطي الدليل.
 نجمعو من Pinterest صور وفيديوهات حسب كل émotion ونفحصو الأصل والجودة والخلفية والصوت قبل الاستعمال.
+
+سلسلة إضافية من حين لآخر: نقارنو سيارات من نفس الماركة فـألمانيا، رخيصة ولا غالية، ونوضحو النسخة والتجهيزات والثمن المؤرّخ والمزايا والعيوب ولمن مناسبة وواش كتستاهل وعلاش. ما نخلطوش ثمن الكتالوج مع عروض الوكلاء أو المستعمل؛ المدة والتقسيم يختارهم المستخدم قبل التنفيذ.
