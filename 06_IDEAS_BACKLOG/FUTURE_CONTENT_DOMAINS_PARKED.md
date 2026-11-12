@@ -1,8 +1,11 @@
 # Future content domains — saved, not started
 Recorded: 2026-11-12.
-Status for EVERY category below: **PARKED / FUTURE OPTIONS — DO NOT START NOW**.
+Default status: **PARKED / FUTURE OPTIONS — DO NOT START NOW**, except the specifically activated format below.
 
 The user explicitly asked to save this complete menu for later, not to begin producing these topics now. This is a catalog, not an active production queue or an instruction to expand the current schedule. Do not start research campaigns, scripts, VO, editing or publication from this list merely because it exists. Wait for the user to choose or explicitly activate a subject. This does not cancel existing completed work or independently authorized tasks.
+
+## Active exception — occasional German same-brand car comparisons
+The user subsequently explicitly confirmed this format for occasional use: compare multiple cars from the same manufacturer, affordable or expensive, covering useful options, strengths/weaknesses, German prices and whether the price is justified. This format may be proactively proposed now; see [canonical series rules](../00_MASTER_SYSTEM/SHORT_VIDEO_AND_REACTION_RULES.md#11-occasional-series--same-brand-cars-and-value-in-germany). It does not activate every automotive topic or the remaining domains. Let the user choose the specific models/topic and production plan before final VO/editing. No fixed posting cadence or background automation is requested.
 
 Audience: German-speaking, with German-market details for buying/value content. Channel theme: engineering, technology and remarkable machines.
 
@@ -29,3 +32,5 @@ Saving a domain is not proof that a specific subject is researched, filmable, te
 
 ## بالدارجة
 هاد 14 مجال محفوظين للمستقبل فقط. **ما نبداوهمش دابا** وما نعتابروهمش برنامج نشر ولا لائحة خدمة نشيطة. المستخدم يختار من بعد الموضوع اللي باغي، عاد نطبّقو عليه طريقة التخطيط المتفق عليها.
+
+استثناء فعّال: سلسلة مقارنة سيارات من نفس الماركة فالسوق الألماني نقدر نقترحوها من حين لآخر دابا. باقي المجالات تبقى محفوظة للمستقبل؛ كل حلقة يختارها المستخدم قبل الـVO النهائي والمونتاج.
