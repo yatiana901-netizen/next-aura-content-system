@@ -1,4 +1,7 @@
 # NEXT AURA — UNIVERSAL VIDEO PRODUCTION PIPELINE v1.0
+
+> **Current user update — 2026-11-12:** Read [Short-video planning and emotion reactions](SHORT_VIDEO_AND_REACTION_RULES.md) before scripting. Every new video/part must be **<=25 seconds including all inserts**. Above an estimated **20 seconds**, recommend one 21–25 s video versus a meaningful series and explain why. Before final VO/editing, present estimated runtime and the precise hook, topics, visual proof, reaction and payoff of each part. Brief emotion-matched reaction clips/character images are authorized; no music or permanent presenter. This policy supersedes older duration defaults; historical exports are not new runtime targets.
+
 Approved direction: 2026-11-03. Applies to EVERY German Next Aura Short, including car news, engineering, suppliers, motorsport and future tech.
 This is the authoritative order of operations. Detailed precedent lives in montage-1/MASTER_PROMPT.md, montage-1/QA_AND_MEDIA_RULES.md, montage-1/PUBLISHING_STANDARD.md, and montage-1/TIKTOK_AND_YOUTUBE_SHORTS_WORKFLOW.md.
 MISSION: Verified fresh idea → distinct real visuals → German VO → exact storyboard → tracked cinematic 9:16 edit → 3-layer audio → independent QA → TikTok + YouTube packages → analytics learning.
@@ -16,7 +19,7 @@ GATE 0: promising hook, factual basis, rights status documented, footage really 
 - Record claim ledger for exact model, date, spec, engine, speed, price, Nm, horsepower and future plans, including URLs. Label CURRENT, PROTOTYPE, CONCEPT, PLANNED or UNCONFIRMED.
 - NEVER conflate BMW ALPINA Nardo production-prototype with one-of-one Vision BMW ALPINA design study, or 2025 speed record with unknown speed of later crash.
 - German spoken script with hook within first 2–3s, very strong first 8s, reveal, engineering explanation, surprise and payoff. Natural short sentences. Avoid slow generic intro or forced Follow.
-- Duration depends on interest and footage, often 25–45s, not forced to one minute. Presenter OFF unless user approves.
+- Every NEW video/episode is at most 25 seconds including reaction inserts and ending. Above an estimated 20 seconds, compare one 21–25 s video with a meaningful series; narrow or split if more than 25 s is needed. Before final VO/editing, provide the duration/topic proposal required by SHORT_VIDEO_AND_REACTION_RULES.md. Keep speech natural. Presenter OFF; short emotion-matched reactions are allowed under that policy.
 GATE 1: every factual sentence verified, strong original angle and clear takeaway.
 
 ## Stage 2 — ElevenLabs voice
@@ -71,6 +74,7 @@ This applies across automotive record attempts, race onboards, crash footage wit
 GATE 5: full visual review of tracking and natural motion, no low-value scene.
 
 ## Stage 6 — Transitions, SFX hits and overlays
+- Plan brief emotion-matched meme/reaction clips or character images using SHORT_VIDEO_AND_REACTION_RULES.md. Tie each to a spoken phrase/event, keep real technical evidence visible, count insert-only time toward the 25-second cap, and do not impose a meme quota.
 - Hard cuts primary. Add selective whip, speed ramp, clean motion blur, push-in, impact cut or short transition ONLY when justified by matching movement/reveal. Do not force transition at every clip.
 - Dynamic high-speed test: energetic rhythm, purposeful speed ramp and tighter sound hits. Luxury Vision: smooth premium movement, fewer aggressive cuts. Each story gets a distinctive edit identity.
 - Effects: subtle color/sharpness, matched motion, restrained motion graphics; no distracting screen shakes, artificial overlays, fake light or giant neon.
