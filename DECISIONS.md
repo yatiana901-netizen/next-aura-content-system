@@ -53,3 +53,6 @@ This is an experiment, not a permanent law.
 
 ## D012 — Technical numbers
 Verify exact figures against the primary source and avoid mixing market-specific specifications.
+
+## D013 — Short videos, proactive series planning and emotion reactions (2026-11-12)
+User-approved constraint: every NEW video/episode is at most 25 seconds including all inserts. Above an estimated 20 seconds, proactively recommend one 21–25 s video versus two or more meaningful parts; above 25 s, narrow or split. Before final VO/editing, give estimated total and per-part runtime, exact topics, hook, visual proof, payoff and reasons. Brief emotion-matched meme clips or character images are authorized; no fixed presenter, no mandatory meme count, no music, no obscured technical evidence. These are user preferences, not proven retention guarantees. See [the canonical planning and reaction policy](00_MASTER_SYSTEM/SHORT_VIDEO_AND_REACTION_RULES.md). Historical longer edits remain historical references.
