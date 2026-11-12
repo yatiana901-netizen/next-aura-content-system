@@ -139,6 +139,8 @@ Do not call a Pin image a verified video. Do not claim to have listened, downloa
 - State which checks were performed and which remain pending.
 
 ## 11. Occasional series — same-brand cars and value in Germany
+**Status: ACTIVE FORMAT FOR OCCASIONAL EPISODE PROPOSALS**, explicitly reconfirmed by the user on 2026-11-12 after parking the broader domain menu. Do not treat this series as parked. Proactively include it among suitable episode proposals during active work; no fixed frequency, scheduled automation or publication is implied. The user chooses each specific episode/plan before final VO/editing. Other parked domains remain deferred.
+
 User-approved addition: 2026-11-12. Alongside engineering explainers, occasionally compare several cars from the SAME manufacturer in the GERMAN market, affordable or expensive. New and used examples are allowed, but distinguish them explicitly.
 The main question: which car/version is good for which buyer, what important equipment does it offer, what does it cost in Germany, and is that price justified?
 
