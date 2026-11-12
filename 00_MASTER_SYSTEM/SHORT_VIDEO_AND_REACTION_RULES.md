@@ -10,9 +10,7 @@ There is NO fixed runtime ceiling and NO automatic duration threshold for propos
 - No forced minimum, maximum, one-minute target, or automatic number of parts. Do not pad, rush speech or split a thin idea just to satisfy a number.
 - Explain what will be covered, what should be omitted, and why the recommendation fits this topic.
 - If a series is useful, each part has a distinct angle, its own hook, evidence, explanation and satisfying payoff. No arbitrary mid-sentence cuts or withholding the entire answer to force Part 2.
-- Propose dated publishing times for the German audience, with corresponding Morocco time and the evidence behind them. Use current account analytics where available; otherwise label the proposal as a test, not a guaranteed best time. Check actual date/time-zone offsets; avoid universal fixed hours.
-- Posting context can inform packaging or a series schedule; it does not by itself prove an ideal runtime.
-- Present the concrete proposal, then WAIT for the user's choice of duration, single video/parts and posting plan BEFORE final VO or montage execution. Research and feasibility work may continue while waiting. An already explicit choice in the current task need not be reconfirmed.
+- Present the concrete proposal, then WAIT for the user's choice of duration, topics and single video/parts BEFORE final VO or montage execution. Research and feasibility work may continue while waiting. An already explicit choice in the current task need not be reconfirmed.
 - Choosing a posting plan is not authorization to publish unless the user also asks to publish.
 
 ## 2. Required proposal BEFORE final VO / editing
@@ -24,13 +22,17 @@ Present a concrete recommendation in Darija:
 5. For EVERY proposed video/part: estimated duration range, hook, precise points in order, real visual proof and ending.
 6. Planned emotional reaction, matching phrase/event, asset format and rough duration, or no reaction if it adds nothing.
 7. Available footage, missing shots and proposed fallback for each gap; unresolved facts/audio that may change the plan.
-8. Proposed publication date/time per platform and, for a series, per part; Germany and Morocco equivalents, analytics basis or test assumption.
-9. Ask the user to choose the recommended plan or adjust it before dependent production.
+8. Ask the user to choose the recommended plan or adjust it before dependent production.
 
-| Video/part | Estimated duration | Hook | Topics | Visual proof / fallback | Reaction | Payoff | Proposed posting time |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Video/part | Estimated duration | Hook | Topics | Visual proof / fallback | Reaction | Payoff |
+| --- | --- | --- | --- | --- | --- | --- |
 
 Give your preferred choice and why, not only a menu. This user-requested choice replaces the older instruction to proceed automatically after a duration proposal.
+
+## Publishing time — only after the video is finished
+Do NOT recommend or ask the user to choose posting times during the initial duration/topic/split proposal. Do not make posting time a prerequisite for VO or editing.
+After the video is finished, include the recommended publication date/time with the final title, description and hashtags. Give platform-specific recommendations for the German audience and corresponding Morocco time; for a series, propose a schedule for the completed parts.
+Use fresh account analytics where available. Otherwise label recommendations as tests, not guaranteed best times. Verify actual dates/time-zone offsets; no universal fixed upload hour. Final publishing still requires the user's posting instruction.
 
 ## 3. Estimate honestly, then measure
 - During planning, estimate from the German script length and an explicitly stated natural delivery pace, plus non-overlapping visual holds/reaction time. A trial range such as 135–165 words/minute may help, but calibrate to the actual narrator; it is not a fixed voice setting.
@@ -132,12 +134,12 @@ Do not call a Pin image a verified video. Do not claim to have listened, downloa
 - Every factual claim supported; needed visuals available or gaps explicitly identified.
 - Reactions match meaning and leave evidence visible; VO/SFX sync honestly reviewed.
 - Actual runtime measured and consistent with the user-selected plan, natural speech and no filler; no universal duration cap.
-- User chose duration, structure and posting plan before final VO/editing.
+- User chose duration, topics and structure before final VO/editing. Posting-time recommendations are deferred until the video is finished.
 - Reaction cutouts, size, placement, static-image motion and missing-shot substitutions reviewed.
 - State which checks were performed and which remain pending.
 
 ## ملخص بالدارجة
-تحيدات قاعدة 20 ثانية وسقف 25 ثانية: ما كاينة حتى مدة ثابتة مفروضة. قبل التنفيذ، الشات يقترح المدة والمحاور وواش فيديو واحد ولا أجزاء ووقت النشر فـألمانيا والمغرب مع السبب؛ المستخدم يختار عاد نبداو الـVO والمونتاج.
+تحيدات قاعدة 20 ثانية وسقف 25 ثانية: ما كاينة حتى مدة ثابتة مفروضة. قبل التنفيذ، الشات يقترح المدة والمحاور وواش فيديو واحد ولا أجزاء مع السبب؛ المستخدم يختار عاد نبداو الـVO والمونتاج. وقت النشر نخليوه حتى يسالي الفيديو، مع العنوان والوصف والـhashtags؛ ماشي شرط قبل الخدمة.
 اللقطة الناقصة نعوضوها بـanimation خفيفة إلا أمكن، وإلا فيديو عادي مناسب أو لقطة hookية مرتبطة بالموضوع بلا تضليل؛ إلا ما نفع حتى حل نحيدو الجزء ونعدلو الـVO.
 نحركو الصور واللقطات الهادئة بـzoom en avant/en arrière أو pan ناعم حسب الحاجة. الـréaction تكون بلا خلفية، بحجم متوازن وفالمكان والتوقيت المناسبين؛ لا عدد مفروض، غير فين كتضيف معنى وحماس، بلا موسيقى وبلا ما تغطي الدليل.
 نجمعو من Pinterest صور وفيديوهات حسب كل émotion ونفحصو الأصل والجودة والخلفية والصوت قبل الاستعمال.
