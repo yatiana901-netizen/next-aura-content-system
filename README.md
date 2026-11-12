@@ -8,6 +8,8 @@ Private operating system for **Next Aura**.
 ## Future topic menu — parked (2026-11-12)
 The user approved saving [14 future content domains](06_IDEAS_BACKLOG/FUTURE_CONTENT_DOMAINS_PARKED.md), but explicitly said **do not start them now**. These are future options, not an active production queue. Wait for the user's selection/activation before starting work from this menu. The broad positioning below describes scope, not authorization to launch every domain.
 
+**Active exception confirmed by the user (2026-11-12):** the [occasional German same-brand car/value comparison series](00_MASTER_SYSTEM/SHORT_VIDEO_AND_REACTION_RULES.md#11-occasional-series--same-brand-cars-and-value-in-germany) is available for proactive episode proposals now. Other parked domains are not activated by this exception. The user still selects each episode and plan before final VO/editing.
+
 ## Positioning
 **Engineering & Extreme Machines**, with a German-language audience focus: automotive, planes (civil/military), ships/naval/submarines, defense equipment, space/rockets, rail, drones and massive industrial machines. This expanded scope was explicitly user-approved on 2026-11-07; retain factual, high-value technical explanations.
 
