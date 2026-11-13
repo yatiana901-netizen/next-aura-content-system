@@ -358,3 +358,20 @@ Maintain a compact record per episode:
 الـFollow ضروري فكل فيديو وحتى فكل جزء: جملة ألمانية قصيرة وطبيعية كتجي من بعد المعلومة أو النتيجة، مع سبب واضح للمتابعة. نبدلو الصياغة حسب الموضوع؛ الأيقونة وSFX اختياريين، متزامنين وبلا ما يغطيو التفاصيل أو الـVO. ما نوعدوش بجزء جاي إلا كان مبرمج. ندخلو مدة الجملة فالتقدير ونراجعو حضورها ووضوحها فالتصدير النهائي.
 
 منهج الـVO الكامل تزاد فالقسم 14: بطاقة الفكرة، التحقق من الحقائق، جرد اللقطات، اختيار Hook، بناء القصة، ألمانية طبيعية، مراجعة النص، نسخة معتمدة، تجربة ElevenLabs، فحص التسجيل، المزامنة، مراجعة التصدير والنشر. ما نقولوش واجد للتسجيل أو للمونتاج أو للنشر إلا دازت الفحوصات المناسبة؛ أي تحقق ما تدارش نوضحوه. المستخدم كيولد الصوت، والمراجعة ديالنا خاصها تتدار قبل التسليم بلا ما يبقى يسول واش نسينا شي حاجة.
+
+
+## 15. Approved McMurtry V2 visual reference — 2026-11-13
+
+The user approved the delivered V2 with “B7AL HAKA NADI” and requested a complete reusable record. Read [McMurtry V2: all implemented changes, exact shots, camera paths, VO/SFX timing and QA](../montage-1/MCMURTRY_V2_APPROVED_EDIT_RECORD.md) before reproducing this treatment. The [actual render script](../montage-1/mcmurtry-v2/build_v2.py) is preserved; bundled audio/overlay assets and source links are in the recipe linked in that record.
+
+Apply these lessons to future edits:
+- Select the strongest relevant shots around the actual VO. Vary angle, detail scale and purpose; do not keep replaying the same source interval or treat a zoomed duplicate as a new shot.
+- Use visible, intentional smooth zoom in/out and directional pan/camera follow to guide attention. Follow the car or technical detail without clipping the evidence. Manually animated crops must not be described as automatic tracking.
+- Preserve source proportions, a legible sharp foreground and subdued blurred fill when adapting landscape footage to vertical.
+- Inspect the beginning, middle and end of each motion and every source cut boundary. Remove stray presenter frames, black tails and unrelated source cuts before export.
+- Match purposeful nonmusical SFX to visual/voice beats while keeping VO clear. Good assets can repeat; there is no fixed SFX or reaction count.
+- Keep the actual demonstration readable. Record speed changes; do not pass accelerated action off as real-time or contextual footage off as proof.
+- Finish the useful payoff before the brief Follow CTA. Keep duration subject-driven; V2's 29.8 seconds and 15 shots are historical values, not new mandatory targets.
+- Preserve the actual build recipe and distinguish sampled visual QA, automated checks and human audiovisual listening. User approval is not proof of audience performance or completion of checks that were not performed.
+
+بالدارجة: هاد V2 ولى مرجع بصري معجبك: تنويع اللقطات، zoom وpan وتتبع واضح وناعم، blur فالفراغ، SFX مناسب والـVO واضح. خاص كل حركة تخدم التفصيل، وكل لقطة تخدم الجملة. التفاصيل والأرقام ديال هاد النسخة محفوظين فالملف المرتبط؛ ماشي شرط نعاودو نفس العدد والمدة والإعدادات فكل موضوع.
