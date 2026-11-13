@@ -181,7 +181,7 @@ Specific topics referenced in this conversation:
 - Porsche Panamera Active Ride: existing project/reference, not automatically a new duplicate episode.
 - BMW ALPINA tire foam / Nardo and Vision: earlier references; keep different models/studies distinct.
 - ABT RS5-R: earlier quality/content reference; not approval to recycle an existing story.
-- McMurtry Spéirling upside-down demonstration: proposed next topic, NOT selected by the user yet. Earlier tentative recommendation was one 28–35 s explainer; this remains an estimate, not a mandated duration. Manufacturer source: https://mcmurtry.com/upside-down-driving/ (published April 2025; VP1 prototype on a purpose-built rotating platform, not a fresh 2026 event). The official linked video is https://youtu.be/g6LYcgaQ46c . Locate/inspect actual shots before claiming clip readiness.
+- McMurtry Spéirling upside-down demonstration: selected in the subsequent conversation. Current direction is one German explainer about inverted driving, the fans and low pressure, with a provisional 30–35 s estimate, not a mandated duration. The earlier VO is a draft pending refinement and real-audio review. Manufacturer source: https://mcmurtry.com/upside-down-driving/ (published April 2025; VP1 prototype on a purpose-built rotating platform, not a fresh 2026 event). The official linked video is https://youtu.be/g6LYcgaQ46c . Locate/inspect actual shots before claiming clip readiness.
 Reaction memes, lightweight animation, zoom/pan and hook shots are editing tools that support these stories, not required standalone content categories.
 
 ## 13. Required follow CTA — every video
@@ -228,6 +228,125 @@ Record: exact German line; reason to follow; selected platform; planned closing 
 - Ending check: no accidental cut-off, prolonged outro, broken loop or unsupported sequel promise.
 - Final export check: verify the CTA in the assembled export, not just the script or timeline. Report any listening/playback verification that remains pending.
 
+## 14. Complete German VO and production workflow
+User-approved addition: 2026-11-13. Apply this complete workflow before delivering work; do not wait for the user to repeatedly ask whether anything was forgotten. This operational section complements sections 1–13. Existing explicit user choices remain valid: do not request approval again for an already selected plan. No fixed duration ceiling; posting-time advice comes only after the finished video.
+
+### 14.1 Editorial brief and decision
+Prepare a concise Darija brief: one main idea, intended German audience and assumed knowledge, distinctive angle, why it matters, exact question, promised payoff, strongest visual evidence, available/missing footage, estimated natural duration and single-video/parts recommendation with rationale.
+If parts are appropriate, each must provide a complete useful idea and payoff. Obtain the user's plan choice as required in section 1; continue research independently. Do not use a runtime number to pad or rush the story.
+Gate: the premise and viewer benefit are clear and visually feasible.
+
+### 14.2 Fact verification and claim record
+Use primary sources where possible. Record for each consequential claim: exact proposed wording, source URL, publication/event date, model/year/version, relevant conditions, company claim versus independent measurement, and remaining uncertainty.
+Distinguish prototypes, concepts, demonstrations and production products. Distinguish a controlled test from general capability. Identify market/date for prices and units/conditions for figures.
+Resolve conflicting evidence or qualify/remove the claim. No unsupported superlatives, fake novelty, invented precision or exaggerated hook. Simplification must preserve the actual mechanism; a metaphor is useful only if it does not mislead.
+Gate: every consequential claim has suitable support or is explicitly excluded/pending.
+
+### 14.3 Footage feasibility and evidence mapping
+Inspect available files and record filename/source, usable in/out, visible action, quality/crop limits and review coverage. Label each intended use: evidence, explanation/animation, decorative/context footage, or reaction.
+Map each spoken claim to the actual image that supports it. A decorative shot is not proof. Keep comparisons fair and preserve the conditions that matter.
+Apply the missing-shot procedure in section 8: faithful light animation, relevant real footage where appropriate, strong contextual shot for attention only, or remove/rewrite the unsupported segment.
+Gate: the story can be shown clearly; missing critical proof is not hidden.
+
+### 14.4 Develop and select the hook
+Write three genuinely different opening approaches, then recommend one using clarity on first hearing, first-shot strength, truthful curiosity, natural spoken German and deliverable payoff.
+Design the first sentence, first shot and timing together. No generic greeting, lengthy logo lead-in, unsupported claim or follow request before value. A hook need not shout.
+Record why the chosen version is stronger; do not deliver a weak first draft and discover obvious shortcomings only after the user challenges it.
+
+### 14.5 Story architecture and creative rhythm
+Build the viewer's understanding: surprising observation -> meaningful question -> simple cause -> visible evidence/result -> concise follow CTA.
+Provide useful information throughout rather than withholding all value for the end. Each sentence must advance understanding or a justified emotional beat. Anticipate the main likely objection or misconception and answer it with evidence.
+Vary sentence length and energy: short hook, clear explanatory line, small meaningful pause and payoff. Aim for one memorable takeaway the viewer can retell. Do not overload one story with price, power, history and specifications unless they serve its central question.
+Use curiosity, surprise, doubt and resolution deliberately. Reactions support an already strong line; they do not repair an empty script.
+Gate: the ending fulfills the exact opening promise without repetition or artificial suspense.
+
+### 14.6 Write for the German ear
+Write directly in idiomatic spoken German for an ordinary German car/tech audience, not as a literal Darija translation.
+Prefer direct verbs, familiar vocabulary and one clear thought per sentence. Avoid stiff documentary phrasing, invented slang, ambiguity, awkward repetition and excessive jargon. Explain an essential technical term simply.
+Review grammar, idiomatic wording and technical meaning separately. Make connections and pronoun references unambiguous.
+Keep a pronunciation reference for model names, brands, technical words, numbers and units. Verify unfamiliar names from a suitable spoken reference where possible; mark unresolved pronunciation instead of guessing.
+Prepare numbers and abbreviations in a form the selected voice can pronounce correctly. Do not alter meaning just to make synthesis easier.
+
+### 14.7 Pre-recording editorial review
+Perform a separate critical review pass after drafting; do not claim independent human/native-German review unless it occurred.
+Check:
+- Is the first line immediate, clear and supported by the shot?
+- Can each sentence be understood on first hearing without reading?
+- Does each sentence add meaning, necessary context or emotion?
+- Does any phrasing exaggerate the evidence or imply the wrong physical explanation?
+- Are there jumps, unclear pronouns, redundancy or hard-to-speak constructions?
+- Does the picture get enough time to communicate?
+- Does the payoff answer the hook before the follow CTA?
+Apply a deletion test: if removing a line loses nothing useful, remove it.
+Read aloud when possible and estimate duration using natural delivery, technical names and genuine pauses. Clearly distinguish a text-based estimate from a measured read. Never claim a spoken trial was performed if it was not.
+Do not fill every second with speech or remove natural breathing. Shorten the script before forcing faster narration.
+Gate: facts, German, narrative, visual match and estimated pacing pass; unresolved items are disclosed.
+
+### 14.8 Recording handoff and version control
+Deliver one recommended clean German script ready to copy, its meaning in Darija, estimated duration range, separate delivery notes, pronunciation guidance and any unresolved item.
+Keep instructions, citations, shot notes and performance directions outside the copyable spoken text unless a supported voice-control syntax is intentionally being used.
+Maintain one approved version (V1, V2, etc.). Record changes and reasons. Link the script version to its generated audio and edit so an old take is never silently paired with revised wording.
+The assistant prepares the script; the user generates the VO in ElevenLabs unless a different arrangement is explicitly requested.
+Gate: the chosen script and the recording input are identical and identifiable.
+
+### 14.9 Voice trial and full-take review
+Test the hook plus a technically difficult sentence before committing to a full take. Choose clear natural German delivery with appropriate energy, not exaggerated acting or shouting.
+Check names, numbers, units, emphasis, pauses, pace and intelligibility. Adapt settings to the actual voice/model; no blind universal preset.
+After receiving the full take, listen when supported and compare it word for word with the approved text. Check omitted/changed/repeated words, pronunciation, flat or unnatural delivery, long silence, clipped consonants, clicks, distortion and distracting level differences.
+Regenerate a weak sentence or take rather than concealing it with SFX. Trim unnecessary silence without cutting breaths or word endings. Measure actual duration and revise estimates.
+If audio playback/listening is unavailable, explicitly mark listening and pronunciation review pending. Metadata or waveform inspection is not listening.
+Gate: the actual recording has been reviewed, or limitations are stated and it is not labeled fully audio-approved.
+
+### 14.10 Assemble against the actual recording
+Use measured word/phrase onsets from the real take. Determine shot in/out and overlay/SFX timing from those beats, not guessed script timestamps.
+Align the relevant component, animation, number reveal and SFX transient to the intended word/event. Allow only deliberate tiny anticipation; check it in context. Clear overlays before a conflicting cut.
+Preserve complete important movement and enough time to understand it. Prefer the strongest relevant shots; remove filler and avoid repeating the same shot without a reason.
+Use controlled zoom/pan/camera follow to guide attention without cropping evidence, jitter, snap-back or destructive enlargement. Use unobtrusive blurred fill where needed for vertical framing, and inspect start/middle/end.
+No background music, including source/meme music. Use purposeful nonmusical SFX with clear VO; good sounds may be reused when meaningful, without an arbitrary cue cap or mechanical repetition. Transitions are optional per cut, chosen to support motion and pacing.
+No permanent presenter or persistent captions by default. Brief text is used only when it materially improves understanding.
+Reactions follow sections 5–7: matching emotion, clean background removal, balanced phone-readable size, negative-space placement, precise entrance and exit, and no fixed count. Never cover evidence or important platform-safe areas.
+Include a natural brief follow CTA after useful value, with an optional restrained graphic/SFX; no long black outro.
+Any recording/text change requires a timing recheck.
+
+### 14.11 Review the actual exported file
+Review the export, not only the editor timeline:
+| Review mode | Required checks |
+| --- | --- |
+| Audio only | First-listen understanding, pronunciation, pacing, word completeness, consistent intelligibility and no clipping |
+| Visual only | Readable action, evidence integrity, continuity, framing, clean cutouts and no distracting effects |
+| Audio plus video | Accurate word/visual/SFX synchronization, emotional fit, meaningful rhythm and delivered hook promise |
+| Phone-size viewing | Detail readability, reaction/text scale and platform interface safe areas |
+| Opening and ending | Immediate hook, satisfying result, short follow CTA, no clipped ending, empty hold or broken intended loop |
+| Technical export | Correct intended aspect ratio, actual duration, no black flashes, stray frames, missing media, repeated segments or audio gaps |
+
+Recheck affected passages after a fix, especially transitions, overlays and numerical claims. Do not call a sampled contact-sheet review a complete viewing, or frame inspection an audio review.
+Gate: report what passed, what was corrected and what remains unverified. Never claim zero errors or guaranteed virality.
+
+### 14.12 Publishing and learning
+Before publication, check the usage conditions/provenance of footage, reaction assets and synthesized voice. Availability on Pinterest/YouTube is not proof of permission; discovery screenshots are not cleared source assets.
+Prepare a truthful thumbnail/title, suitable description and exactly five highly relevant subject/German-audience hashtags per requested platform version. Keep the thumbnail consistent with what the video actually delivers.
+Only after completion, recommend posting times using current account data where available, with correct date/time-zone conversion and an explicit test label when analytics are absent. Preparing the pack does not authorize posting.
+After publication, examine retention drops, rewatches, comprehension questions and follows where data is available. Views alone do not diagnose VO quality. Record a specific hypothesis for the next episode; do not invent causal certainty from one result.
+
+### 14.13 Readiness definitions and honest handoff
+- READY TO RECORD: facts, natural German, story, visual feasibility and estimated pacing reviewed; one identifiable script version and any remaining caveats supplied.
+- READY TO EDIT: the chosen recording is available, actual timing measured, audio reviewed and corrections completed; disclose any tool-limited checks.
+- READY TO PUBLISH: the assembled export was reviewed with picture and sound, required fixes applied, CTA and publishing assets checked.
+Do not use a readiness label to imply checks that were impossible or not performed. A storyboard is not a rendered montage. A drafted document is not saved to GitHub until the write succeeds and is verified.
+Own the complete review from the beginning. Avoid endless checklist expansion or repeatedly asking the user whether something was missed; apply the workflow and report concrete findings.
+
+### 14.14 Reusable episode record
+Maintain a compact record per episode:
+- Chosen angle, audience, question, payoff, plan choice and estimated duration.
+- Claim/source log, version/model/test context, uncertainties.
+- Asset filenames, review coverage, usable source in/out, evidence/illustration role and gaps/fallbacks.
+- Three hook candidates, selected hook and rationale.
+- Approved German script version, Darija meaning, delivery/pronunciation notes and change log.
+- Audio filename/version, actual measured duration and listening-review status.
+- Shot plan: timeline range; exact VO phrase; source file/in/out; crop/motion; reaction; overlay; SFX; unresolved checks.
+- Export filename/version; performed QA, fixes and remaining limitations.
+- Final thumbnail/title/description/five hashtags, posting-time recommendation and later learning.
+
 ## ملخص بالدارجة
 تحيدات قاعدة 20 ثانية وسقف 25 ثانية: ما كاينة حتى مدة ثابتة مفروضة. قبل التنفيذ، الشات يقترح المدة والمحاور وواش فيديو واحد ولا أجزاء مع السبب؛ المستخدم يختار عاد نبداو الـVO والمونتاج. وقت النشر نخليوه حتى يسالي الفيديو، مع العنوان والوصف والـhashtags؛ ماشي شرط قبل الخدمة.
 اللقطة الناقصة نعوضوها بـanimation خفيفة إلا أمكن، وإلا فيديو عادي مناسب أو لقطة hookية مرتبطة بالموضوع بلا تضليل؛ إلا ما نفع حتى حل نحيدو الجزء ونعدلو الـVO.
@@ -237,3 +356,5 @@ Record: exact German line; reason to follow; selected platform; planned closing 
 سلسلة إضافية من حين لآخر: نقارنو سيارات من نفس الماركة فـألمانيا، رخيصة ولا غالية، ونوضحو النسخة والتجهيزات والثمن المؤرّخ والمزايا والعيوب ولمن مناسبة وواش كتستاهل وعلاش. ما نخلطوش ثمن الكتالوج مع عروض الوكلاء أو المستعمل؛ المدة والتقسيم يختارهم المستخدم قبل التنفيذ.
 
 الـFollow ضروري فكل فيديو وحتى فكل جزء: جملة ألمانية قصيرة وطبيعية كتجي من بعد المعلومة أو النتيجة، مع سبب واضح للمتابعة. نبدلو الصياغة حسب الموضوع؛ الأيقونة وSFX اختياريين، متزامنين وبلا ما يغطيو التفاصيل أو الـVO. ما نوعدوش بجزء جاي إلا كان مبرمج. ندخلو مدة الجملة فالتقدير ونراجعو حضورها ووضوحها فالتصدير النهائي.
+
+منهج الـVO الكامل تزاد فالقسم 14: بطاقة الفكرة، التحقق من الحقائق، جرد اللقطات، اختيار Hook، بناء القصة، ألمانية طبيعية، مراجعة النص، نسخة معتمدة، تجربة ElevenLabs، فحص التسجيل، المزامنة، مراجعة التصدير والنشر. ما نقولوش واجد للتسجيل أو للمونتاج أو للنشر إلا دازت الفحوصات المناسبة؛ أي تحقق ما تدارش نوضحوه. المستخدم كيولد الصوت، والمراجعة ديالنا خاصها تتدار قبل التسليم بلا ما يبقى يسول واش نسينا شي حاجة.
