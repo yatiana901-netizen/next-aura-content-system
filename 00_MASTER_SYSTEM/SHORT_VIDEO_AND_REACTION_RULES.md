@@ -375,3 +375,30 @@ Apply these lessons to future edits:
 - Preserve the actual build recipe and distinguish sampled visual QA, automated checks and human audiovisual listening. User approval is not proof of audience performance or completion of checks that were not performed.
 
 بالدارجة: هاد V2 ولى مرجع بصري معجبك: تنويع اللقطات، zoom وpan وتتبع واضح وناعم، blur فالفراغ، SFX مناسب والـVO واضح. خاص كل حركة تخدم التفصيل، وكل لقطة تخدم الجملة. التفاصيل والأرقام ديال هاد النسخة محفوظين فالملف المرتبط؛ ماشي شرط نعاودو نفس العدد والمدة والإعدادات فكل موضوع.
+
+
+## 16. Editing discretion: speed, reframing and clean source footage — 2026-11-14
+
+Explicit user authorization: the editor may increase a shot's playback speed and change its framing whenever this improves the edit. Do not ask for separate permission for each speed or framing adjustment within the approved video.
+
+### Speed and framing
+- Choose speed per shot to improve pacing, remove dead time and fit the actual VO; do not accelerate every clip mechanically.
+- Preserve enough time to understand the important action. Do not use altered playback to imply a false performance measurement or conceal how a mechanism works. Keep timing-sensitive proof at original speed when required for its meaning.
+- Reframe with crop, repositioning, zoom and camera-follow paths as useful. Preserve proportions, readable detail and sufficient resolution; do not cut off the relevant component or action.
+- After changing speed, revise the source out-point and recheck source-cut boundaries, VO/visual/SFX synchronization and overlay exits. Do not speed the German voice merely to fit a shot.
+- Record source in/out, playback rate, crop and camera path in the episode recipe. These adjustments are already authorized; the narrative and evidence still govern their use.
+
+### Strict clean-frame selection rule
+- No visible source watermark or source-added text in the delivered montage: channel handles, social-platform marks, credits stamped over the image, subtitles, banners, titles and other baked-in source text must not appear.
+- Inspect the full proposed interval, including moving/appearing marks, not just its first frame.
+- Prefer an available clean original or another clean angle. Crop/reframe or choose a clean sub-interval when this fully excludes the unwanted material while preserving the subject, important action, quality and meaning.
+- Inspect every output layer: a watermark or text must not survive in the blurred background copy, transition, freeze frame, zoom/pan edge or last frame.
+- Do not hide a mark with a distracting patch, conspicuous blur box, oversized sticker or new text panel. The final image must remain clean.
+- If the watermark/text cannot be excluded cleanly, or it must remain visible to retain the necessary shot, **do not use that shot**. Replace it with a clean relevant shot, a faithful lightweight explanatory animation when appropriate, or remove/rewrite that passage. Never keep a marked shot merely because it is dramatic.
+- If source text contains indispensable test conditions or information, preserve that meaning in the VO or choose a different source; do not crop it away in a way that makes the demonstration misleading.
+- This selection rule concerns unwanted source overlays; it does not silently authorize removing real vehicle badges or redesigning the car. Deliberate assistant-created explanatory graphics remain subject to the existing minimal-overlay rules.
+- Log rejected clips and the reason when useful. Before delivery, check the actual export for residual text/watermarks and state any review limitations accurately.
+
+### بالدارجة
+عندنا الإذن نزيدو vitesse ديال شي لقطة ولا نبدلو الكادر ديالها إلا غادي يخدم الإيقاع والمعنى، بلا ما نرجعو نسولو على كل تعديل. خاص الحركة المهمة تبقى مفهومة، وما نبدلوش السرعة بطريقة كتضلل فالتجربة أو الأداء.
+أي لقطة فيها watermark ولا texte ديال المصدر ما خاصهمش يبانوا فالمونتاج، حتى فـblur ديال الخلفية أو أثناء zoom وpan. نقلبو على أصل نقي أو زاوية أخرى، أو نقصّو الكادر/المدة إلا بقات اللقطة واضحة ونقية. إلا كان ضروري يبقاو باينين وما كاينش حل مزيان، ما نستعملوش اللقطة ونبدلوها. ما نخبيوهمش بستيكر كبير ولا مربع كيخسر المنظر.
